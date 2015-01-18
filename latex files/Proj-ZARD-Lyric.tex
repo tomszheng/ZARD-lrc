@@ -9,22 +9,50 @@
 \usepackage[top=0.8in, bottom=0.8in, left=1.25in, right=1.25in]{geometry}
 
 \usepackage{setspace} %添加这个用于行距修改
-
+ \usepackage{verbatim}%用于多行注释
 \usepackage{color}
+
+\begin{comment}
+\usepackage{draftwatermark}
+\SetWatermarkText{TomsZheng}%设置水印文字
+\SetWatermarkLightness{0.8}%设置水印亮度
+\SetWatermarkScale{0.5}%设置水印大小
+\end{comment}
+
+\begin{comment}
+\usepackage{graphicx}
+\usepackage{draftwatermark}
+\SetWatermarkText{\includegraphics{bkg.jpg}}
+\SetWatermarkLightness{0.8}%设置水印亮度
+\SetWatermarkScale{1}%设置水印大小
+\SetWatermarkAngle{0}
+\end{comment}
+
+\begin{comment}
+\usepackage{wallpaper}
+\CenterWallPaper{1.2}{bkg.jpg}
+\end{comment}
 
 \begin{document}
 \begin{spacing}{1.15}
 
-\pagestyle{empty} 　　　　%第二頁以後頁碼空白
-\thispagestyle{empty} 　　　%首頁頁碼空白
+\pagestyle{empty} %第二頁以後頁碼空白
+\thispagestyle{empty} %首頁頁碼空白
 
-\textbf{{\huge 愛は暗闇の中で}}
+\begin{figure}[!h]
+\includegraphics[bb=20 -20 600 200,scale=0.65]{2.jpg}
+\end{figure}
+\textbf{{\huge  }}
+\vspace{-15em}
+\\
+
+\textbf{{\huge \color{white}{愛は暗闇の中で}}}
 \vspace{0.5em}
 \\
 
-\large{
-\ruby{愛}{あい}は\ruby{手}{て}\ruby{\color{red}{探}}{さぐ}り
-\ruby{暗闇}{くらやみ}の\ruby{中}{\color{purple}{なか}}で
+\large{\color{white}{
+\ruby{愛}{あい}は\ruby{手}{て}\ruby{探}{さぐ}り
+\ruby{暗闇}{くらやみ}の\ruby{中}{なか}で
 \ruby{踊}{おど}る　
 
 It's gonna be a great night, yeah～
@@ -32,7 +60,9 @@ It's gonna be a great night, yeah～
 
 \ruby{駆}{か}け\ruby{拔}{ぬ}ける　Freeway
 この\ruby{思}{おも}い　
+}
 
+\color{black}{
 To be your slave
 Oh, you, crazy rainy night, no one care
 
@@ -109,6 +139,6 @@ It's gonna be a great night, yeah～
 
 In your eyes. oh yeah
 }
-
+}
 \end{spacing}
 \end{document}
