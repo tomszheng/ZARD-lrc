@@ -1,0 +1,22 @@
+% Require hyperref package.
+\label{label-name}
+\hyperref[label-name]{text}
+
+
+maybe I can consider this:
+
+_________________
+|				|   1.name1
+|   CD COVER	|	2.name2
+|				|	3.name3
+|				|	4.name4
+-----------------
+
+
+chapter A
+section A.1 name1
+section A.2 name2
+section A.3 name3
+section A.4 name4
+
+Use hyperlink to link these contents! 

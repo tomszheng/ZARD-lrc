@@ -1,0 +1,2164 @@
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (MiKTeX 2.9) (preloaded format=xelatex 2014.11.1)  13 FEB 2015 22:14
+entering extended mode
+**12_43.tex
+("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-13\12_43.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+! Undefined control sequence.
+l.1 \section
+            { 愛は暗闇の中で(44th Single ver.)}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{ 愛
+                 は暗闇の中で(44th Single ver.)}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 愛 in font nullfont!
+Missing character: There is no は in font nullfont!
+Missing character: There is no 暗 in font nullfont!
+Missing character: There is no 闇 in font nullfont!
+Missing character: There is no の in font nullfont!
+Missing character: There is no 中 in font nullfont!
+Missing character: There is no で in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no ) in font nullfont!
+! Undefined control sequence.
+l.2 \large
+          {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--3
+[]
+ []
+
+! Undefined control sequence.
+l.4 \ruby
+         {愛}{あい}は\ruby{手探}{てさぐ}り
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \ruby{愛
+             }{あい}は\ruby{手探}{てさぐ}り
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 愛 in font nullfont!
+Missing character: There is no あ in font nullfont!
+Missing character: There is no い in font nullfont!
+Missing character: There is no は in font nullfont!
+! Undefined control sequence.
+l.4 \ruby{愛}{あい}は\ruby
+                              {手探}{てさぐ}り
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 手 in font nullfont!
+Missing character: There is no 探 in font nullfont!
+Missing character: There is no て in font nullfont!
+Missing character: There is no さ in font nullfont!
+Missing character: There is no ぐ in font nullfont!
+Missing character: There is no り in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 4--5
+[] 
+ []
+
+! Undefined control sequence.
+l.6 \ruby
+         {暗闇}{くらやみ}の\ruby{中}{なか}で
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 \ruby{暗
+             闇}{くらやみ}の\ruby{中}{なか}で
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 暗 in font nullfont!
+Missing character: There is no 闇 in font nullfont!
+Missing character: There is no く in font nullfont!
+Missing character: There is no ら in font nullfont!
+Missing character: There is no や in font nullfont!
+Missing character: There is no み in font nullfont!
+Missing character: There is no の in font nullfont!
+! Undefined control sequence.
+l.6 \ruby{暗闇}{くらやみ}の\ruby
+                                       {中}{なか}で
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 中 in font nullfont!
+Missing character: There is no な in font nullfont!
+Missing character: There is no か in font nullfont!
+Missing character: There is no で in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 6--7
+[] 
+ []
+
+! Undefined control sequence.
+l.8 \ruby
+         {踊}{おど}る　It's gonna be a great night, yeah～
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 \ruby{踊
+             }{おど}る　It's gonna be a great night, yeah～
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 踊 in font nullfont!
+Missing character: There is no お in font nullfont!
+Missing character: There is no ど in font nullfont!
+Missing character: There is no る in font nullfont!
+Missing character: There is no 　 in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no ～ in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 8--10
+[]
+ []
+
+! Undefined control sequence.
+l.11 \ruby
+          {駆}{か}け\ruby{拔}{ぬ}ける　Freeway
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 \ruby{駆
+              }{か}け\ruby{拔}{ぬ}ける　Freeway
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 駆 in font nullfont!
+Missing character: There is no か in font nullfont!
+Missing character: There is no け in font nullfont!
+! Undefined control sequence.
+l.11 \ruby{駆}{か}け\ruby
+                            {拔}{ぬ}ける　Freeway
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 拔 in font nullfont!
+Missing character: There is no ぬ in font nullfont!
+Missing character: There is no け in font nullfont!
+Missing character: There is no る in font nullfont!
+Missing character: There is no 　 in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no y in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 11--12
+[] 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 こ
+        の\ruby{思}{おも}い　To be your slave
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no こ in font nullfont!
+Missing character: There is no の in font nullfont!
+! Undefined control sequence.
+l.13 この\ruby
+                {思}{おも}い　To be your slave
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 思 in font nullfont!
+Missing character: There is no お in font nullfont!
+Missing character: There is no も in font nullfont!
+Missing character: There is no い in font nullfont!
+Missing character: There is no 　 in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 13--14
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 O
+      h, you, crazy rainy night, no one care
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no O in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 15--16
+[]
+ []
+
+! Undefined control sequence.
+l.17 \ruby
+          {素直}{すなお}になれ　Night　\ruby{濡}{ぬ}れた　Mem...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 \ruby{素
+              直}{すなお}になれ　Night　\ruby{濡}{ぬ}れた　Mem...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 素 in font nullfont!
+Missing character: There is no 直 in font nullfont!
+Missing character: There is no す in font nullfont!
+Missing character: There is no な in font nullfont!
+Missing character: There is no お in font nullfont!
+Missing character: There is no に in font nullfont!
+Missing character: There is no な in font nullfont!
+Missing character: There is no れ in font nullfont!
+Missing character: There is no 　 in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no 　 in font nullfont!
+! Undefined control sequence.
+l.17 ...��直}{すなお}になれ　Night　\ruby
+                                                  {濡}{ぬ}れた　Memories
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 濡 in font nullfont!
+Missing character: There is no ぬ in font nullfont!
+Missing character: There is no れ in font nullfont!
+Missing character: There is no た in font nullfont!
+Missing character: There is no 　 in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 17--19
+[] 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 こ
+        んなにも　For you
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no こ in font nullfont!
+Missing character: There is no ん in font nullfont!
+Missing character: There is no な in font nullfont!
+Missing character: There is no に in font nullfont!
+Missing character: There is no も in font nullfont!
+Missing character: There is no 　 in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 20--21
+[]
+ []
+
+! Undefined control sequence.
+l.22 \ruby
+          {感}{かん}じてる　But you're so cold
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 \ruby{感
+              }{かん}じてる　But you're so cold
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 感 in font nullfont!
+Missing character: There is no か in font nullfont!
+Missing character: There is no ん in font nullfont!
+Missing character: There is no じ in font nullfont!
+Missing character: There is no て in font nullfont!
+Missing character: There is no る in font nullfont!
+Missing character: There is no 　 in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no d in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 22--23
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 O
+      h! Tonight and everynight, you'd be mine
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no O in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no ! in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 24--25
+[]
+ []
+
+! Undefined control sequence.
+l.26 \ruby
+          {目移}{めうつ}り\ruby{気}{き}になる
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 \ruby{目
+              移}{めうつ}り\ruby{気}{き}になる
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 目 in font nullfont!
+Missing character: There is no 移 in font nullfont!
+Missing character: There is no め in font nullfont!
+Missing character: There is no う in font nullfont!
+Missing character: There is no つ in font nullfont!
+Missing character: There is no り in font nullfont!
+! Undefined control sequence.
+l.26 \ruby{目移}{めうつ}り\ruby
+                                     {気}{き}になる
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 気 in font nullfont!
+Missing character: There is no き in font nullfont!
+Missing character: There is no に in font nullfont!
+Missing character: There is no な in font nullfont!
+Missing character: There is no る in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 26--27
+[] 
+ []
+
+! Undefined control sequence.
+l.28 \ruby
+          {恋}{こい}の\ruby{駆}{か}け\ruby{引}{ひ}き
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 \ruby{恋
+              }{こい}の\ruby{駆}{か}け\ruby{引}{ひ}き
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 恋 in font nullfont!
+Missing character: There is no こ in font nullfont!
+Missing character: There is no い in font nullfont!
+Missing character: There is no の in font nullfont!
+! Undefined control sequence.
+l.28 \ruby{恋}{こい}の\ruby
+                               {駆}{か}け\ruby{引}{ひ}き
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 駆 in font nullfont!
+Missing character: There is no か in font nullfont!
+Missing character: There is no け in font nullfont!
+! Undefined control sequence.
+l.28 \ruby{恋}{こい}の\ruby{駆}{か}け\ruby
+                                                 {引}{ひ}き
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 引 in font nullfont!
+Missing character: There is no ひ in font nullfont!
+Missing character: There is no き in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 28--30
+[] 
+ []
+
+! Undefined control sequence.
+l.31 \ruby
+          {愛}{あい}は\ruby{手探}{てさぐ}り
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 \ruby{愛
+              }{あい}は\ruby{手探}{てさぐ}り
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 愛 in font nullfont!
+Missing character: There is no あ in font nullfont!
+Missing character: There is no い in font nullfont!
+Missing character: There is no は in font nullfont!
+! Undefined control sequence.
+l.31 \ruby{愛}{あい}は\ruby
+                               {手探}{てさぐ}り
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 手 in font nullfont!
+Missing character: There is no 探 in font nullfont!
+Missing character: There is no て in font nullfont!
+Missing character: There is no さ in font nullfont!
+Missing character: There is no ぐ in font nullfont!
+Missing character: There is no り in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 31--32
+[] 
+ []
+
+! Undefined control sequence.
+l.33 \ruby
+          {暗闇}{くらやみ}の\ruby{中}{なか}で
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 \ruby{暗
+              闇}{くらやみ}の\ruby{中}{なか}で
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 暗 in font nullfont!
+Missing character: There is no 闇 in font nullfont!
+Missing character: There is no く in font nullfont!
+Missing character: There is no ら in font nullfont!
+Missing character: There is no や in font nullfont!
+Missing character: There is no み in font nullfont!
+Missing character: There is no の in font nullfont!
+! Undefined control sequence.
+l.33 \ruby{暗闇}{くらやみ}の\ruby
+                                        {中}{なか}で
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 中 in font nullfont!
+Missing character: There is no な in font nullfont!
+Missing character: There is no か in font nullfont!
+Missing character: There is no で in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 33--34
+[] 
+ []
+
+! Undefined control sequence.
+l.35 \ruby
+          {踊}{おど}る　It's gonna be a great night, yeah～
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35 \ruby{踊
+              }{おど}る　It's gonna be a great night, yeah～
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 踊 in font nullfont!
+Missing character: There is no お in font nullfont!
+Missing character: There is no ど in font nullfont!
+Missing character: There is no る in font nullfont!
+Missing character: There is no 　 in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no ～ in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 35--36
+[]
+ []
+
+! Undefined control sequence.
+l.37 \ruby
+          {愛}{あい}は\ruby{気}{き}まぐれ　\ruby{Beat}{ビート}�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37 \ruby{愛
+              }{あい}は\ruby{気}{き}まぐれ　\ruby{Beat}{ビート}�...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 愛 in font nullfont!
+Missing character: There is no あ in font nullfont!
+Missing character: There is no い in font nullfont!
+Missing character: There is no は in font nullfont!
+! Undefined control sequence.
+l.37 \ruby{愛}{あい}は\ruby
+                               {気}{き}まぐれ　\ruby{Beat}{ビート}�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 気 in font nullfont!
+Missing character: There is no き in font nullfont!
+Missing character: There is no ま in font nullfont!
+Missing character: There is no ぐ in font nullfont!
+Missing character: There is no れ in font nullfont!
+Missing character: There is no 　 in font nullfont!
+! Undefined control sequence.
+l.37 ...あい}は\ruby{気}{き}まぐれ　\ruby
+                                                  {Beat}{ビート}に\ruby{...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no B in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ビ in font nullfont!
+Missing character: There is no ー in font nullfont!
+Missing character: There is no ト in font nullfont!
+Missing character: There is no に in font nullfont!
+! Undefined control sequence.
+l.37 ...まぐれ　\ruby{Beat}{ビート}に\ruby
+                                                  {抱}{だ}かれ
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 抱 in font nullfont!
+Missing character: There is no だ in font nullfont!
+Missing character: There is no か in font nullfont!
+Missing character: There is no れ in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 37--38
+[] 
+ []
+
+! Undefined control sequence.
+l.39 \ruby
+          {見}{み}つめて　In your eyes. oh yeah～
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39 \ruby{見
+              }{み}つめて　In your eyes. oh yeah～
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 見 in font nullfont!
+Missing character: There is no み in font nullfont!
+Missing character: There is no つ in font nullfont!
+Missing character: There is no め in font nullfont!
+Missing character: There is no て in font nullfont!
+Missing character: There is no 　 in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no ～ in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 39--41
+[]
+ []
+
+! Undefined control sequence.
+l.42 \ruby
+          {夜明}{よあ}けの　Highway
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 \ruby{夜
+              明}{よあ}けの　Highway
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 夜 in font nullfont!
+Missing character: There is no 明 in font nullfont!
+Missing character: There is no よ in font nullfont!
+Missing character: There is no あ in font nullfont!
+Missing character: There is no け in font nullfont!
+Missing character: There is no の in font nullfont!
+Missing character: There is no 　 in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no y in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 42--43
+[] 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 つ
+        ぶやいた　To change your mind
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no つ in font nullfont!
+Missing character: There is no ぶ in font nullfont!
+Missing character: There is no や in font nullfont!
+Missing character: There is no い in font nullfont!
+Missing character: There is no た in font nullfont!
+Missing character: There is no 　 in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 44--45
+[]
+ []
+
+! Undefined control sequence.
+l.46 \ruby
+          {時}{とき}は\ruby{人}{ひと}の\ruby{気持}{きも}ちよ�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46 \ruby{時
+              }{とき}は\ruby{人}{ひと}の\ruby{気持}{きも}ちよ�...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 時 in font nullfont!
+Missing character: There is no と in font nullfont!
+Missing character: There is no き in font nullfont!
+Missing character: There is no は in font nullfont!
+! Undefined control sequence.
+l.46 \ruby{時}{とき}は\ruby
+                               {人}{ひと}の\ruby{気持}{きも}ちよ�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 人 in font nullfont!
+Missing character: There is no ひ in font nullfont!
+Missing character: There is no と in font nullfont!
+Missing character: There is no の in font nullfont!
+! Undefined control sequence.
+l.46 ...{時}{とき}は\ruby{人}{ひと}の\ruby
+                                                  {気持}{きも}ちより\...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 気 in font nullfont!
+Missing character: There is no 持 in font nullfont!
+Missing character: There is no き in font nullfont!
+Missing character: There is no も in font nullfont!
+Missing character: There is no ち in font nullfont!
+Missing character: There is no よ in font nullfont!
+Missing character: There is no り in font nullfont!
+! Undefined control sequence.
+l.46 ...と}の\ruby{気持}{きも}ちより\ruby
+                                                  {速}{はや}く\ruby{過}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 速 in font nullfont!
+Missing character: There is no は in font nullfont!
+Missing character: There is no や in font nullfont!
+Missing character: There is no く in font nullfont!
+! Undefined control sequence.
+l.46 ...きも}ちより\ruby{速}{はや}く\ruby
+                                                  {過}{す}ぎる
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 過 in font nullfont!
+Missing character: There is no す in font nullfont!
+Missing character: There is no ぎ in font nullfont!
+Missing character: There is no る in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 46--47
+[] 
+ []
+
+! Undefined control sequence.
+l.48 \ruby
+          {日}{にじ}よう\ruby{日}{にじ}は\ruby{彼女}{かのじょ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.48 \ruby{日
+              }{にじ}よう\ruby{日}{にじ}は\ruby{彼女}{かのじょ...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 日 in font nullfont!
+Missing character: There is no に in font nullfont!
+Missing character: There is no じ in font nullfont!
+Missing character: There is no よ in font nullfont!
+Missing character: There is no う in font nullfont!
+! Undefined control sequence.
+l.48 \ruby{日}{にじ}よう\ruby
+                                  {日}{にじ}は\ruby{彼女}{かのじょ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 日 in font nullfont!
+Missing character: There is no に in font nullfont!
+Missing character: There is no じ in font nullfont!
+Missing character: There is no は in font nullfont!
+! Undefined control sequence.
+l.48 ...�}{にじ}よう\ruby{日}{にじ}は\ruby
+                                                  {彼女}{かのじょ}に�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 彼 in font nullfont!
+Missing character: There is no 女 in font nullfont!
+Missing character: There is no か in font nullfont!
+Missing character: There is no の in font nullfont!
+Missing character: There is no じ in font nullfont!
+Missing character: There is no ょ in font nullfont!
+Missing character: There is no に in font nullfont!
+Missing character: There is no あ in font nullfont!
+Missing character: There is no げ in font nullfont!
+Missing character: There is no る in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 48--50
+[] 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51 こ
+        のまま\ruby{来}{い}ないのかと
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no こ in font nullfont!
+Missing character: There is no の in font nullfont!
+Missing character: There is no ま in font nullfont!
+Missing character: There is no ま in font nullfont!
+! Undefined control sequence.
+l.51 このまま\ruby
+                      {来}{い}ないのかと
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 来 in font nullfont!
+Missing character: There is no い in font nullfont!
+Missing character: There is no な in font nullfont!
+Missing character: There is no い in font nullfont!
+Missing character: There is no の in font nullfont!
+Missing character: There is no か in font nullfont!
+Missing character: There is no と in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 51--52
+[] 
+ []
+
+! Undefined control sequence.
+l.53 \ruby
+          {生}{い}きているかぎり \ruby{朝}{あさ}が\ruby{来}{�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.53 \ruby{生
+              }{い}きているかぎり \ruby{朝}{あさ}が\ruby{来}{�...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 生 in font nullfont!
+Missing character: There is no い in font nullfont!
+Missing character: There is no き in font nullfont!
+Missing character: There is no て in font nullfont!
+Missing character: There is no い in font nullfont!
+Missing character: There is no る in font nullfont!
+Missing character: There is no か in font nullfont!
+Missing character: There is no ぎ in font nullfont!
+Missing character: There is no り in font nullfont!
+! Undefined control sequence.
+l.53 \ruby{生}{い}きているかぎり \ruby
+                                               {朝}{あさ}が\ruby{来}{�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 朝 in font nullfont!
+Missing character: There is no あ in font nullfont!
+Missing character: There is no さ in font nullfont!
+Missing character: There is no が in font nullfont!
+! Undefined control sequence.
+l.53 ...いるかぎり \ruby{朝}{あさ}が\ruby
+                                                  {来}{く}る
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 来 in font nullfont!
+Missing character: There is no く in font nullfont!
+Missing character: There is no る in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 53--54
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.55 O
+      h, crazy crazy night, no one care
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no O in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 55--56
+[]
+ []
+
+! Undefined control sequence.
+l.57 \ruby
+          {甘}{あま}く\ruby{切}{せつ}ない\ruby{心}{こころ}に�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.57 \ruby{甘
+              }{あま}く\ruby{切}{せつ}ない\ruby{心}{こころ}に�...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 甘 in font nullfont!
+Missing character: There is no あ in font nullfont!
+Missing character: There is no ま in font nullfont!
+Missing character: There is no く in font nullfont!
+! Undefined control sequence.
+l.57 \ruby{甘}{あま}く\ruby
+                               {切}{せつ}ない\ruby{心}{こころ}に�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 切 in font nullfont!
+Missing character: There is no せ in font nullfont!
+Missing character: There is no つ in font nullfont!
+Missing character: There is no な in font nullfont!
+Missing character: There is no い in font nullfont!
+! Undefined control sequence.
+l.57 ...�}{あま}く\ruby{切}{せつ}ない\ruby
+                                                  {心}{こころ}に　In m...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 心 in font nullfont!
+Missing character: There is no こ in font nullfont!
+Missing character: There is no こ in font nullfont!
+Missing character: There is no ろ in font nullfont!
+Missing character: There is no に in font nullfont!
+Missing character: There is no 　 in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 57--59
+[]
+ []
+
+! Undefined control sequence.
+l.60 \ruby
+          {愛}{あい}はまぼろし\ruby{暗闇}{くらやみ}の\ruby{�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 \ruby{愛
+              }{あい}はまぼろし\ruby{暗闇}{くらやみ}の\ruby{�...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 愛 in font nullfont!
+Missing character: There is no あ in font nullfont!
+Missing character: There is no い in font nullfont!
+Missing character: There is no は in font nullfont!
+Missing character: There is no ま in font nullfont!
+Missing character: There is no ぼ in font nullfont!
+Missing character: There is no ろ in font nullfont!
+Missing character: There is no し in font nullfont!
+! Undefined control sequence.
+l.60 \ruby{愛}{あい}はまぼろし\ruby
+                                           {暗闇}{くらやみ}の\ruby{�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 暗 in font nullfont!
+Missing character: There is no 闇 in font nullfont!
+Missing character: There is no く in font nullfont!
+Missing character: There is no ら in font nullfont!
+Missing character: There is no や in font nullfont!
+Missing character: There is no み in font nullfont!
+Missing character: There is no の in font nullfont!
+! Undefined control sequence.
+l.60 ...�ろし\ruby{暗闇}{くらやみ}の\ruby
+                                                  {中}{なか}で
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 中 in font nullfont!
+Missing character: There is no な in font nullfont!
+Missing character: There is no か in font nullfont!
+Missing character: There is no で in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 60--61
+[] 
+ []
+
+! Undefined control sequence.
+l.62 \ruby
+          {踊}{おど}る　It's gonna be a great night, yeah～
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62 \ruby{踊
+              }{おど}る　It's gonna be a great night, yeah～
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 踊 in font nullfont!
+Missing character: There is no お in font nullfont!
+Missing character: There is no ど in font nullfont!
+Missing character: There is no る in font nullfont!
+Missing character: There is no 　 in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no ～ in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 62--63
+[]
+ []
+
+! Undefined control sequence.
+l.64 \ruby
+          {愛}{あい}は\ruby{震}{ふる}えて　\ruby{Beat}{ビート}�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64 \ruby{愛
+              }{あい}は\ruby{震}{ふる}えて　\ruby{Beat}{ビート}�...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 愛 in font nullfont!
+Missing character: There is no あ in font nullfont!
+Missing character: There is no い in font nullfont!
+Missing character: There is no は in font nullfont!
+! Undefined control sequence.
+l.64 \ruby{愛}{あい}は\ruby
+                               {震}{ふる}えて　\ruby{Beat}{ビート}�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 震 in font nullfont!
+Missing character: There is no ふ in font nullfont!
+Missing character: There is no る in font nullfont!
+Missing character: There is no え in font nullfont!
+Missing character: There is no て in font nullfont!
+Missing character: There is no 　 in font nullfont!
+! Undefined control sequence.
+l.64 ...あい}は\ruby{震}{ふる}えて　\ruby
+                                                  {Beat}{ビート}に\ruby{...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no B in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ビ in font nullfont!
+Missing character: There is no ー in font nullfont!
+Missing character: There is no ト in font nullfont!
+Missing character: There is no に in font nullfont!
+! Undefined control sequence.
+l.64 ...��}えて　\ruby{Beat}{ビート}に\ruby
+                                                  {抱}{だ}かれ
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 抱 in font nullfont!
+Missing character: There is no だ in font nullfont!
+Missing character: There is no か in font nullfont!
+Missing character: There is no れ in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 64--65
+[] 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66 こ
+        のまま In your eyes. oh yeah
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no こ in font nullfont!
+Missing character: There is no の in font nullfont!
+Missing character: There is no ま in font nullfont!
+Missing character: There is no ま in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no h in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 66--68
+[]
+ []
+
+! Undefined control sequence.
+l.69 \ruby
+          {愛}{あい}は\ruby{手探}{てさぐ}り
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 \ruby{愛
+              }{あい}は\ruby{手探}{てさぐ}り
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 愛 in font nullfont!
+Missing character: There is no あ in font nullfont!
+Missing character: There is no い in font nullfont!
+Missing character: There is no は in font nullfont!
+! Undefined control sequence.
+l.69 \ruby{愛}{あい}は\ruby
+                               {手探}{てさぐ}り
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 手 in font nullfont!
+Missing character: There is no 探 in font nullfont!
+Missing character: There is no て in font nullfont!
+Missing character: There is no さ in font nullfont!
+Missing character: There is no ぐ in font nullfont!
+Missing character: There is no り in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 69--70
+[] 
+ []
+
+! Undefined control sequence.
+l.71 \ruby
+          {暗闇}{くらやみ}の\ruby{中}{なか}で
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.71 \ruby{暗
+              闇}{くらやみ}の\ruby{中}{なか}で
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 暗 in font nullfont!
+Missing character: There is no 闇 in font nullfont!
+Missing character: There is no く in font nullfont!
+Missing character: There is no ら in font nullfont!
+Missing character: There is no や in font nullfont!
+Missing character: There is no み in font nullfont!
+Missing character: There is no の in font nullfont!
+! Undefined control sequence.
+l.71 \ruby{暗闇}{くらやみ}の\ruby
+                                        {中}{なか}で
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 中 in font nullfont!
+Missing character: There is no な in font nullfont!
+Missing character: There is no か in font nullfont!
+Missing character: There is no で in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 71--72
+[] 
+ []
+
+! Undefined control sequence.
+l.73 \ruby
+          {踊}{おど}る　It's gonna be a great night, yeah～
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.73 \ruby{踊
+              }{おど}る　It's gonna be a great night, yeah～
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 踊 in font nullfont!
+Missing character: There is no お in font nullfont!
+Missing character: There is no ど in font nullfont!
+Missing character: There is no る in font nullfont!
+Missing character: There is no 　 in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no ～ in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 73--74
+[]
+ []
+
+! Undefined control sequence.
+l.75 \ruby
+          {愛}{あい}は\ruby{気}{き}まぐれ　\ruby{Beat}{ビート}�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.75 \ruby{愛
+              }{あい}は\ruby{気}{き}まぐれ　\ruby{Beat}{ビート}�...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 愛 in font nullfont!
+Missing character: There is no あ in font nullfont!
+Missing character: There is no い in font nullfont!
+Missing character: There is no は in font nullfont!
+! Undefined control sequence.
+l.75 \ruby{愛}{あい}は\ruby
+                               {気}{き}まぐれ　\ruby{Beat}{ビート}�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 気 in font nullfont!
+Missing character: There is no き in font nullfont!
+Missing character: There is no ま in font nullfont!
+Missing character: There is no ぐ in font nullfont!
+Missing character: There is no れ in font nullfont!
+Missing character: There is no 　 in font nullfont!
+! Undefined control sequence.
+l.75 ...あい}は\ruby{気}{き}まぐれ　\ruby
+                                                  {Beat}{ビート}に\ruby{...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no B in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ビ in font nullfont!
+Missing character: There is no ー in font nullfont!
+Missing character: There is no ト in font nullfont!
+Missing character: There is no に in font nullfont!
+! Undefined control sequence.
+l.75 ...まぐれ　\ruby{Beat}{ビート}に\ruby
+                                                  {抱}{だ}かれ
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 抱 in font nullfont!
+Missing character: There is no だ in font nullfont!
+Missing character: There is no か in font nullfont!
+Missing character: There is no れ in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 75--76
+[] 
+ []
+
+! Undefined control sequence.
+l.77 \ruby
+          {見}{み}つめて　In your eyes.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.77 \ruby{見
+              }{み}つめて　In your eyes.
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 見 in font nullfont!
+Missing character: There is no み in font nullfont!
+Missing character: There is no つ in font nullfont!
+Missing character: There is no め in font nullfont!
+Missing character: There is no て in font nullfont!
+Missing character: There is no 　 in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 77--79
+[]
+ []
+
+! Undefined control sequence.
+l.80 \ruby
+          {愛}{あい}は\ruby{手探}{てさぐ}り
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 \ruby{愛
+              }{あい}は\ruby{手探}{てさぐ}り
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 愛 in font nullfont!
+Missing character: There is no あ in font nullfont!
+Missing character: There is no い in font nullfont!
+Missing character: There is no は in font nullfont!
+! Undefined control sequence.
+l.80 \ruby{愛}{あい}は\ruby
+                               {手探}{てさぐ}り
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 手 in font nullfont!
+Missing character: There is no 探 in font nullfont!
+Missing character: There is no て in font nullfont!
+Missing character: There is no さ in font nullfont!
+Missing character: There is no ぐ in font nullfont!
+Missing character: There is no り in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 80--81
+[] 
+ []
+
+! Undefined control sequence.
+l.82 \ruby
+          {暗闇}{くらやみ}の\ruby{中}{なか}で
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.82 \ruby{暗
+              闇}{くらやみ}の\ruby{中}{なか}で
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 暗 in font nullfont!
+Missing character: There is no 闇 in font nullfont!
+Missing character: There is no く in font nullfont!
+Missing character: There is no ら in font nullfont!
+Missing character: There is no や in font nullfont!
+Missing character: There is no み in font nullfont!
+Missing character: There is no の in font nullfont!
+! Undefined control sequence.
+l.82 \ruby{暗闇}{くらやみ}の\ruby
+                                        {中}{なか}で
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 中 in font nullfont!
+Missing character: There is no な in font nullfont!
+Missing character: There is no か in font nullfont!
+Missing character: There is no で in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 82--83
+[] 
+ []
+
+! Undefined control sequence.
+l.84 \ruby
+          {踊}{おど}る　It's gonna be a great night, yeah～
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.84 \ruby{踊
+              }{おど}る　It's gonna be a great night, yeah～
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 踊 in font nullfont!
+Missing character: There is no お in font nullfont!
+Missing character: There is no ど in font nullfont!
+Missing character: There is no る in font nullfont!
+Missing character: There is no 　 in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no ～ in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 84--85
+[]
+ []
+
+! Undefined control sequence.
+l.86 \ruby
+          {愛}{あい}は\ruby{震}{ふる}えて　\ruby{Beat}{ビート}�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.86 \ruby{愛
+              }{あい}は\ruby{震}{ふる}えて　\ruby{Beat}{ビート}�...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 愛 in font nullfont!
+Missing character: There is no あ in font nullfont!
+Missing character: There is no い in font nullfont!
+Missing character: There is no は in font nullfont!
+! Undefined control sequence.
+l.86 \ruby{愛}{あい}は\ruby
+                               {震}{ふる}えて　\ruby{Beat}{ビート}�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 震 in font nullfont!
+Missing character: There is no ふ in font nullfont!
+Missing character: There is no る in font nullfont!
+Missing character: There is no え in font nullfont!
+Missing character: There is no て in font nullfont!
+Missing character: There is no 　 in font nullfont!
+! Undefined control sequence.
+l.86 ...あい}は\ruby{震}{ふる}えて　\ruby
+                                                  {Beat}{ビート}に\ruby{...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no B in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ビ in font nullfont!
+Missing character: There is no ー in font nullfont!
+Missing character: There is no ト in font nullfont!
+Missing character: There is no に in font nullfont!
+! Undefined control sequence.
+l.86 ...��}えて　\ruby{Beat}{ビート}に\ruby
+                                                  {抱}{だ}かれ
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 抱 in font nullfont!
+Missing character: There is no だ in font nullfont!
+Missing character: There is no か in font nullfont!
+Missing character: There is no れ in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 86--87
+[] 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.88 こ
+        のまま In your eyes. oh yeah
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no こ in font nullfont!
+Missing character: There is no の in font nullfont!
+Missing character: There is no ま in font nullfont!
+Missing character: There is no ま in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no h in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 88--90
+[]
+ []
+
+)
+! Emergency stop.
+<*> 12_43.tex
+             
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 5 strings out of 429025
+ 81 string characters out of 3167800
+ 49509 words of memory out of 3000000
+ 3366 multiletter control sequences out of 15000+200000
+ 3640 words of font info for 14 fonts, out of 3000000 for 9000
+ 912 hyphenation exceptions out of 8191
+ 5i,0n,4p,80b,30s stack positions out of 5000i,500n,10000p,200000b,50000s
+No pages of output.

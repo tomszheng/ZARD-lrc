@@ -1,144 +1,556 @@
 %\documentclass{bxjsarticle}
-\documentclass[]{article}
+%\documentclass[]{article}
+\documentclass[openany]{book}
+
 \usepackage{zxjatype}
 \usepackage[ipa]{zxjafont}
 \usepackage[overlap,CJK]{ruby} %添加这个增加对于日文拼音的支持
 
-\usepackage{tikz}
-\usetikzlibrary{arrows,automata}
-\usepackage[top=0.8in, bottom=0.8in, left=1.25in, right=1.25in]{geometry}
+\setlength\paperheight{210mm}
+\setlength\paperwidth{148mm}
+
+\usepackage{geometry}
+\geometry{left=1cm,right=1cm,top=2cm,bottom=2cm}
 
 \usepackage{setspace} %添加这个用于行距修改
- \usepackage{verbatim}%用于多行注释
+\usepackage{verbatim}%用于多行注释
 \usepackage{color}
+\usepackage[bookmarks=true,colorlinks,linkcolor=black]{hyperref}
+\usepackage{lipsum}
+\usepackage{fancyhdr}
+\usepackage{graphicx}%封面相关
+\usepackage[english]{babel}
+\usepackage{blindtext}
+\usepackage{pst-node,graphicx}
+\SpecialCoor
 
-\begin{comment}
-\usepackage{draftwatermark}
-\SetWatermarkText{TomsZheng}%设置水印文字
-\SetWatermarkLightness{0.8}%设置水印亮度
-\SetWatermarkScale{0.5}%设置水印大小
-\end{comment}
+\usepackage{picins}
 
-\begin{comment}
-\usepackage{graphicx}
-\usepackage{draftwatermark}
-\SetWatermarkText{\includegraphics{bkg.jpg}}
-\SetWatermarkLightness{0.8}%设置水印亮度
-\SetWatermarkScale{1}%设置水印大小
-\SetWatermarkAngle{0}
-\end{comment}
-
-\begin{comment}
-\usepackage{wallpaper}
-\CenterWallPaper{1.2}{bkg.jpg}
-\end{comment}
+\usepackage{hyperref}
 
 \begin{document}
-\begin{spacing}{1.15}
 
-\pagestyle{empty} %第二頁以後頁碼空白
-\thispagestyle{empty} %首頁頁碼空白
+\noindent\pnode(0.5\textwidth,-0.5\textheight){Center}
+\rput(Center){\includegraphics[width=\paperwidth]{1.eps}}
 
-\begin{figure}[!h]
-\includegraphics[bb=20 -20 600 200,scale=0.65]{2.jpg}
-\end{figure}
-\textbf{{\huge  }}
-\vspace{-15em}
-\\
+\setcounter{page}{0}
 
-\textbf{{\huge \color{white}{愛は暗闇の中で}}}
-\vspace{0.5em}
-\\
+%% temporary titles
+% command to provide stretchy vertical space in proportion
+\newcommand\nbvspace[1][3]{\vspace*{\stretch{#1}}}
+% allow some slack to avoid under/overfull boxes
+\newcommand\nbstretchyspace{\spaceskip0.5em plus 0.25em minus 0.25em}
+% To improve spacing on titlepages
+\newcommand{\nbtitlestretch}{\spaceskip0.6em}
+\pagestyle{empty}
+\begin{center}
+\bfseries
+\nbvspace[1]
+\Huge
+{\nbtitlestretch\huge
+AWK ONE LINERS EXPLAINED}
 
-\large{\color{white}{
-\ruby{愛}{あい}は\ruby{手}{て}\ruby{探}{さぐ}り
-\ruby{暗闇}{くらやみ}の\ruby{中}{なか}で
-\ruby{踊}{おど}る　
+\nbvspace[1]
+\normalsize
 
-It's gonna be a great night, yeah～
-\\
+TO WHICH IS ADDED MANY USEFUL ONE\\
+LINERS AND CODE SO THAT\\
+YOU CAN AWK LIKE A HAWK
+\nbvspace[1]
+\small BY\\
+\Large PETERIS KRUMINS\\[0.5em]
+\footnotesize AUTHOR OF ``A WORKING ALGEBRA,'' ``WIRELESS TELEGRAPHY,\\
+ITS HISTORY, THEORY AND PRACTICE,'' ETC., ETC.
+\nbvspace[2]
 
-\ruby{駆}{か}け\ruby{拔}{ぬ}ける　Freeway
-この\ruby{思}{おも}い　
-}
+%\includegraphics[width=1.5in]{bkg.jpg}
+\nbvspace[3]
+\normalsize
 
-\color{black}{
-To be your slave
-Oh, you, crazy rainy night, no one care
+DOHA\\
+\large
+PUBLISHED IN THE WILD
+\nbvspace[1]
+\end{center}
 
-\ruby{素直}{すなお}になれ　Night　\ruby{濡}{ぬ}れた　Memories
-\\
+\thispagestyle{empty} %本页頁碼空白
 
-こんなにも　For you
-\ruby{感}{かん}じてる　
 
-But you're so cold
-Oh! 
 
-Tonight and everynight, you'd be mine
-\\
 
-\ruby{目移}{めうつ}り\ruby{気}{き}になる
-\ruby{恋}{こい}の\ruby{駆}{か}け\ruby{引}{ひ}き
-\\
+\pagestyle{fancy}                    % 设置页眉
+%\rhead{\small\leftmark}
+%===============
+%双线页眉的设置
+\makeatletter %双线页眉
+\def\headrule{{\if@fancyplain\let\headrulewidth\plainheadrulewidth\fi%
+%\hrule\@height 1.0pt \@width\headwidth\vskip1pt%上面线为1pt粗
+\hrule\@height 0.5pt\@width\headwidth  %下面0.5pt粗
+\vskip-2\headrulewidth\vskip-1pt}      %两条线的距离1pt
+  \vspace{6mm}}     %双线与下面正文之间的垂直间距
+\makeatother
+%===============
 
-\ruby{愛}{あい}は\ruby{手}{て}\ruby{探}{さぐ}り
-\ruby{暗闇}{くらやみ}の\ruby{中}{なか}で
-\ruby{踊}{おど}る　
+\begin{spacing}{1.3}
 
-It's gonna be a great night, yeah～
+\thispagestyle{empty} %本页頁碼空白
+\tableofcontents
 
-\ruby{愛}{あい}は\ruby{気}{き}まぐれ　\ruby{Beat}{ビート}に\ruby{抱}{だ}かれ
-\ruby{見}{み}つめて　
+\vspace{-10mm}
 
-In your eyes. oh yeah～
-\\
+\input{chapter1}
 
-\ruby{夜}{よ}\ruby{明}{あ}けの　Highway
-つぶやいた　
+\hypertarget{1_0}{}
+\input{1_0}
 
-To change your mind
-Oh, crazy crazy night, no one care
+\hypertarget{1_1}{}
+\input{1_1}
 
-\ruby{甘}{あま}く\ruby{切}{せつ}ない\ruby{心}{こころ}に　
+\hypertarget{1_2}{}
+\input{1_2}
 
-In my dream
-\\
+\hypertarget{1_3}{}
+\input{1_3}
 
-\ruby{愛}{あい}はまぼろし\ruby{暗闇}{くらやみ}の\ruby{中}{なか}で
-\ruby{踊}{おど}る　
+\hypertarget{1_4}{}
+\input{1_4}
 
-It's gonna be a great night, yeah～
+\hypertarget{1_5}{}
+\input{1_5}
 
-\ruby{愛}{あい}は\ruby{震}{ふる}えて　\ruby{Beat}{ビート}に\ruby{抱}{だ}かれ
-このまま 
+\input{chapter2}
 
-In your eyes. oh yeah
-\\
+\hypertarget{2_0}{}
+\input{2_0}
 
-\ruby{愛}{あい}は\ruby{手}{て}\ruby{探}{さぐ}り
-\ruby{暗闇}{くらやみ}の\ruby{中}{なか}で
-\ruby{踊}{おど}る　
+\hypertarget{2_1}{}
+\input{2_1}
 
-It's gonna be a great night, yeah～
+\hypertarget{2_2}{}
+\input{2_2}
 
-\ruby{愛}{あい}は\ruby{気}{き}まぐれ　\ruby{Beat}{ビート}に\ruby{抱}{だ}かれ
-\ruby{見}{み}つめて　
+\hypertarget{2_3}{}
+\input{2_3}
 
-In your eyes
-\\
+\hypertarget{2_4}{}
+\input{2_4}
 
-\ruby{愛}{あい}は\ruby{手}{て}\ruby{探}{さぐ}り
-\ruby{暗闇}{くらやみ}の\ruby{中}{なか}で
-\ruby{踊}{おど}る　
+\hypertarget{2_5}{}
+\input{2_5}
 
-It's gonna be a great night, yeah～
+\hypertarget{2_6}{}
+\input{2_6}
 
-\ruby{愛}{あい}は\ruby{震}{ふる}えて　\ruby{Beat}{ビート}に\ruby{抱}{だ}かれ
-このまま 
+\input{chapter3}
 
-In your eyes. oh yeah
-}
-}
+\hypertarget{3_0}{}
+\input{3_0}
+
+\hypertarget{3_1}{}
+\input{3_1}
+
+\hypertarget{3_2}{}
+\input{3_2}
+
+\hypertarget{3_3}{}
+\input{3_3}
+
+\hypertarget{3_4}{}
+\input{3_4}
+
+\hypertarget{3_5}{}
+\input{3_5}
+
+\hypertarget{3_6}{}
+\input{3_6}
+
+\hypertarget{3_7}{}
+\input{3_7}
+
+\hypertarget{3_8}{}
+\input{3_8}
+
+\hypertarget{3_9}{}
+\input{3_9}
+
+\hypertarget{3_10}{}
+\input{3_10}
+
+\input{chapter4}
+
+\hypertarget{4_0}{}
+\input{4_0}
+
+\hypertarget{4_1}{}
+\input{4_1}
+
+\hypertarget{4_2}{}
+\input{4_2}
+
+\hypertarget{4_3}{}
+\input{4_3}
+
+\hypertarget{4_4}{}
+\input{4_4}
+
+\hypertarget{4_5}{}
+\input{4_5}
+
+\hypertarget{4_6}{}
+\input{4_6}
+
+\hypertarget{4_7}{}
+\input{4_7}
+
+\hypertarget{4_8}{}
+\input{4_8}
+
+\hypertarget{4_9}{}
+\input{4_9}
+
+\input{chapter5}
+
+\hypertarget{5_0}{}
+\input{5_0}
+
+\hypertarget{5_1}{}
+\input{5_1}
+
+\hypertarget{5_2}{}
+\input{5_2}
+
+\hypertarget{5_3}{}
+\input{5_3}
+
+\hypertarget{5_4}{}
+\input{5_4}
+
+\hypertarget{5_5}{}
+\input{5_5}
+
+\hypertarget{5_6}{}
+\input{5_6}
+
+\hypertarget{5_7}{}
+\input{5_7}
+
+\hypertarget{5_8}{}
+\input{5_8}
+
+\hypertarget{5_9}{}
+\input{5_9}
+
+\input{chapter6}
+
+\hypertarget{6_0}{}
+\input{6_0}
+
+\hypertarget{6_1}{}
+\input{6_1}
+
+\hypertarget{6_2}{}
+\input{6_2}
+
+\hypertarget{6_3}{}
+\input{6_3}
+
+\hypertarget{6_4}{}
+\input{6_4}
+
+\hypertarget{6_5}{}
+\input{6_5}
+
+\hypertarget{6_6}{}
+\input{6_6}
+
+\hypertarget{6_7}{}
+\input{6_7}
+
+\hypertarget{6_8}{}
+\input{6_8}
+
+\hypertarget{6_9}{}
+\input{6_9}
+
+\input{chapter7}
+
+\hypertarget{7_0}{}
+\input{7_0}
+
+\hypertarget{7_1}{}
+\input{7_1}
+
+\hypertarget{7_2}{}
+\input{7_2}
+
+\hypertarget{7_3}{}
+\input{7_3}
+
+\hypertarget{7_4}{}
+\input{7_4}
+
+\hypertarget{7_5}{}
+\input{7_5}
+
+\hypertarget{7_6}{}
+\input{7_6}
+
+\hypertarget{7_7}{}
+\input{7_7}
+
+\hypertarget{7_8}{}
+\input{7_8}
+
+\hypertarget{7_9}{}
+\input{7_9}
+
+\hypertarget{7_10}{}
+\input{7_10}
+
+\hypertarget{7_11}{}
+\input{7_11}
+
+\input{chapter8}
+
+\hypertarget{8_0}{}
+\input{8_0}
+
+\hypertarget{8_1}{}
+\input{8_1}
+
+\hypertarget{8_2}{}
+\input{8_2}
+
+\hypertarget{8_3}{}
+\input{8_3}
+
+\hypertarget{8_4}{}
+\input{8_4}
+
+\hypertarget{8_5}{}
+\input{8_5}
+
+\hypertarget{8_6}{}
+\input{8_6}
+
+\hypertarget{8_7}{}
+\input{8_7}
+
+\hypertarget{8_8}{}
+\input{8_8}
+
+\hypertarget{8_9}{}
+\input{8_9}
+
+\hypertarget{8_10}{}
+\input{8_10}
+
+\hypertarget{8_11}{}
+\input{8_11}
+
+\hypertarget{8_12}{}
+\input{8_12}
+
+\input{chapter9}
+
+\hypertarget{9_0}{}
+\input{9_0}
+
+\hypertarget{9_1}{}
+\input{9_1}
+
+\hypertarget{9_2}{}
+\input{9_2}
+
+\hypertarget{9_3}{}
+\input{9_3}
+
+\hypertarget{9_4}{}
+\input{9_4}
+
+\hypertarget{9_5}{}
+\input{9_5}
+
+\hypertarget{9_6}{}
+\input{9_6}
+
+\hypertarget{9_7}{}
+\input{9_7}
+
+\hypertarget{9_8}{}
+\input{9_8}
+
+\hypertarget{9_9}{}
+\input{9_9}
+
+\input{chapter10}
+
+\hypertarget{10_0}{}
+\input{10_0}
+
+\hypertarget{10_1}{}
+\input{10_1}
+
+\hypertarget{10_2}{}
+\input{10_2}
+
+\hypertarget{10_3}{}
+\input{10_3}
+
+\hypertarget{10_4}{}
+\input{10_4}
+
+\hypertarget{10_5}{}
+\input{10_5}
+
+\hypertarget{10_6}{}
+\input{10_6}
+
+\hypertarget{10_7}{}
+\input{10_7}
+
+\hypertarget{10_8}{}
+\input{10_8}
+
+\hypertarget{10_9}{}
+\input{10_9}
+
+\hypertarget{10_10}{}
+\input{10_10}
+
+\input{chapter11}
+
+\hypertarget{11_0}{}
+\input{11_0}
+
+\hypertarget{11_1}{}
+\input{11_1}
+
+\hypertarget{11_2}{}
+\input{11_2}
+
+\hypertarget{11_3}{}
+\input{11_3}
+
+\hypertarget{11_4}{}
+\input{11_4}
+
+\hypertarget{11_5}{}
+\input{11_5}
+
+\hypertarget{11_6}{}
+\input{11_6}
+
+\hypertarget{11_7}{}
+\input{11_7}
+
+\hypertarget{11_8}{}
+\input{11_8}
+
+\hypertarget{11_9}{}
+\input{11_9}
+
+\hypertarget{11_10}{}
+\input{11_10}
+
+\hypertarget{11_11}{}
+\input{11_11}
+
+\hypertarget{11_12}{}
+\input{11_12}
+
+\input{chapter12}
+
+\input{12_0}
+
+\input{12_1}
+
+\input{12_2}
+
+\input{12_3}
+
+\input{12_4}
+
+\input{12_5}
+
+\input{12_6}
+
+\input{12_7}
+
+\input{12_8}
+
+\input{12_9}
+
+\input{12_10}
+
+\input{12_11}
+
+\input{12_12}
+
+\input{12_13}
+
+\input{12_14}
+
+\input{12_15}
+
+\input{12_16}
+
+\input{12_17}
+
+\input{12_18}
+
+\input{12_19}
+
+\input{12_20}
+
+\input{12_21}
+
+\input{12_22}
+
+\input{12_23}
+
+\input{12_24}
+
+\input{12_25}
+
+\input{12_26}
+
+\input{12_27}
+
+\input{12_28}
+
+\input{12_29}
+
+%\input{12_30}
+
+\input{12_31}
+
+\input{12_32}
+
+\input{12_33}
+
+\input{12_34}
+
+\input{12_35}
+
+\input{12_36}
+
+\input{12_37}
+
+\input{12_38}
+
+\input{12_39}
+
+\input{12_40}
+
+\input{12_41}
+
+\input{12_42}
+
+\input{12_43}
+
+\input{12_44}
+
+\input{12_45}
 \end{spacing}
 \end{document}

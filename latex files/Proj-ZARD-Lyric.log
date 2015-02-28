@@ -1,7 +1,7 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (MiKTeX 2.9) (preloaded format=xelatex 2014.11.1)  18 JAN 2015 13:36
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (MiKTeX 2.9) (preloaded format=xelatex 2014.11.1)  26 FEB 2015 00:51
 entering extended mode
 **Proj-ZARD-Lyric.tex
-(E:\Users\zheng\Desktop\Proj-ZARD-Lyric.tex
+("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\Proj-ZARD-Lyric.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -13,19 +13,20 @@ german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
 ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
-("E:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
-Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-("E:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
-File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+("E:\Program Files\MiKTeX 2.9\tex\latex\base\book.cls"
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+("E:\Program Files\MiKTeX 2.9\tex\latex\base\bk10.clo"
+File: bk10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count80
-\c@section=\count81
-\c@subsection=\count82
-\c@subsubsection=\count83
-\c@paragraph=\count84
-\c@subparagraph=\count85
-\c@figure=\count86
-\c@table=\count87
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
@@ -46,7 +47,7 @@ Package: l3names 2014/01/04 v4640 L3 Namespace for primitives
 )
 ("E:\Program Files\MiKTeX 2.9\tex\latex\misc\etex.sty"
 Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
-\et@xins=\count88
+\et@xins=\count89
 )
 Package: expl3 2014/01/07 v4646 L3 Experimental code bundle wrapper
 
@@ -64,18 +65,18 @@ Package: l3seq 2013/12/14 v4623 L3 Sequences and stacks
 )
 ("E:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3int.sty"
 Package: l3int 2013/08/02 v4583 L3 Integers
-\c_max_int=\count89
-\l_tmpa_int=\count90
-\l_tmpb_int=\count91
-\g_tmpa_int=\count92
-\g_tmpb_int=\count93
+\c_max_int=\count90
+\l_tmpa_int=\count91
+\l_tmpb_int=\count92
+\g_tmpa_int=\count93
+\g_tmpb_int=\count94
 )
 ("E:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3quark.sty"
 Package: l3quark 2013/12/14 v4623 L3 Quarks
 )
 ("E:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3prg.sty"
 Package: l3prg 2014/01/04 v4642 L3 Control structures
-\g__prg_map_int=\count94
+\g__prg_map_int=\count95
 )
 ("E:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3clist.sty"
 Package: l3clist 2013/07/28 v4581 L3 Comma separated lists
@@ -91,11 +92,11 @@ Package: l3msg 2013/07/28 v4581 L3 Messages
 )
 ("E:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3file.sty"
 Package: l3file 2013/10/13 v4596 L3 File and I/O operations
-\l_iow_line_count_int=\count95
-\l__iow_target_count_int=\count96
-\l__iow_current_line_int=\count97
-\l__iow_current_word_int=\count98
-\l__iow_current_indentation_int=\count99
+\l_iow_line_count_int=\count96
+\l__iow_target_count_int=\count97
+\l__iow_current_line_int=\count98
+\l__iow_current_word_int=\count99
+\l__iow_current_indentation_int=\count100
 )
 ("E:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3skip.sty"
 Package: l3skip 2013/07/28 v4581 L3 Dimensions and skips
@@ -120,20 +121,20 @@ Package: l3skip 2013/07/28 v4581 L3 Dimensions and skips
 )
 ("E:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3keys.sty"
 Package: l3keys 2013/12/08 v4614 L3 Experimental key-value interfaces
-\g__keyval_level_int=\count100
-\l_keys_choice_int=\count101
+\g__keyval_level_int=\count101
+\l_keys_choice_int=\count102
 )
 ("E:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3fp.sty"
 Package: l3fp 2014/01/04 v4642 L3 Floating points
-\c__fp_leading_shift_int=\count102
-\c__fp_middle_shift_int=\count103
-\c__fp_trailing_shift_int=\count104
-\c__fp_big_leading_shift_int=\count105
-\c__fp_big_middle_shift_int=\count106
-\c__fp_big_trailing_shift_int=\count107
-\c__fp_Bigg_leading_shift_int=\count108
-\c__fp_Bigg_middle_shift_int=\count109
-\c__fp_Bigg_trailing_shift_int=\count110
+\c__fp_leading_shift_int=\count103
+\c__fp_middle_shift_int=\count104
+\c__fp_trailing_shift_int=\count105
+\c__fp_big_leading_shift_int=\count106
+\c__fp_big_middle_shift_int=\count107
+\c__fp_big_trailing_shift_int=\count108
+\c__fp_Bigg_leading_shift_int=\count109
+\c__fp_Bigg_middle_shift_int=\count110
+\c__fp_Bigg_trailing_shift_int=\count111
 )
 ("E:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3box.sty"
 Package: l3box 2013/07/28 v4581 L3 Experimental boxes
@@ -170,8 +171,8 @@ Package: l3color 2012/08/29 v4156 L3 Experimental color support
 )
 ("E:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3luatex.sty"
 Package: l3luatex 2013/07/28 v4581 L3 Experimental LuaTeX-specific functions
-\g__cctab_allocate_int=\count111
-\g__cctab_stack_int=\count112
+\g__cctab_allocate_int=\count112
+\g__cctab_stack_int=\count113
 )
 ("E:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3candidates.sty"
 Package: l3candidates 2014/01/06 v4643 L3 Experimental additions to l3kernel
@@ -202,7 +203,7 @@ Package: xeCJK 2013/12/08 v3.2.9 Typesetting CJK scripts with XeLaTeX
 Package: xtemplate 2013/12/31 v4634 L3 Experimental prototype document function
 s
 \l__xtemplate_tmp_dim=\dimen134
-\l__xtemplate_tmp_int=\count113
+\l__xtemplate_tmp_int=\count114
 \l__xtemplate_tmp_muskip=\muskip16
 \l__xtemplate_tmp_skip=\skip49
 Variant \prop_get:NoNTF already defined; not changing it on line 106
@@ -211,11 +212,11 @@ Variant \prop_get:NoNF already defined; not changing it on line 108
 )
 ("E:\Program Files\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty"
 Package: xparse 2013/12/31 v4634 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count114
-\l__xparse_m_args_int=\count115
-\l__xparse_mandatory_args_int=\count116
-\l__xparse_processor_int=\count117
-\l__xparse_v_nesting_int=\count118
+\l__xparse_current_arg_int=\count115
+\l__xparse_m_args_int=\count116
+\l__xparse_mandatory_args_int=\count117
+\l__xparse_processor_int=\count118
+\l__xparse_v_nesting_int=\count119
 )
 ("E:\Program Files\MiKTeX 2.9\tex\latex\l3packages\l3keys2e\l3keys2e.sty"
 Package: l3keys2e 2013/12/31 v4634 LaTeX2e option processing using LaTeX3 keys
@@ -223,7 +224,7 @@ Package: l3keys2e 2013/12/31 v4634 LaTeX2e option processing using LaTeX3 keys
 ("E:\Program Files\MiKTeX 2.9\tex\latex\everypage\everypage.sty"
 Package: everypage 2007/06/20 1.1 Hooks to run on every page
 )
-\l__xeCJK_tmp_int=\count119
+\l__xeCJK_tmp_int=\count120
 \l__xeCJK_tmp_box=\box41
 \l__xeCJK_tmp_dim=\dimen135
 \l__xeCJK_tmp_skip=\skip50
@@ -232,9 +233,9 @@ Package: everypage 2007/06/20 1.1 Hooks to run on every page
 . 
 . Defining document command \xeCJKShipoutHook with arg. spec. '' on line 145.
 .................................................
-\g__xeCJK_spacefactor_int=\count120
-\l__xeCJK_begin_int=\count121
-\l__xeCJK_end_int=\count122
+\g__xeCJK_spacefactor_int=\count121
+\l__xeCJK_begin_int=\count122
+\l__xeCJK_end_int=\count123
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -360,7 +361,7 @@ Package: everypage 2007/06/20 1.1 Hooks to run on every page
 . Defining document command \setCJKfallbackfamilyfont with arg. spec. 'mO{}m'
 . on line 2297.
 .................................................
-\g__xeCJK_family_int=\count123
+\g__xeCJK_family_int=\count124
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -425,7 +426,7 @@ Package: everypage 2007/06/20 1.1 Hooks to run on every page
 . Defining document command \setCJKmathfont with arg. spec. 'O{}m' on line
 . 2987.
 .................................................
-\l__xeCJK_verb_case_int=\count124
+\l__xeCJK_verb_case_int=\count125
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -441,9 +442,9 @@ Package: everypage 2007/06/20 1.1 Hooks to run on every page
 
 ("E:\Program Files\MiKTeX 2.9\tex\latex\fontspec\fontspec.sty"
 Package: fontspec 2013/05/20 v2.3c Font selection for XeLaTeX and LuaLaTeX
-\l_fontspec_script_int=\count125
-\l_fontspec_language_int=\count126
-\l_fontspec_strnum_int=\count127
+\l_fontspec_script_int=\count126
+\l_fontspec_language_int=\count127
+\l_fontspec_strnum_int=\count128
 \l_fontspec_tmpa_dim=\dimen158
 \l_fontspec_tmpb_dim=\dimen159
 \l_fontspec_tmpc_dim=\dimen160
@@ -512,7 +513,7 @@ File: eu1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 Requested font "[lmsans10-regular]:mapping=tex-text" at 10.0pt
  -> E:/Program Files/MiKTeX 2.9/fonts/opentype/public/lm/lmsans10-regular.otf
 )
-\tipaTiiicode=\count128
+\tipaTiiicode=\count129
 \tipasavetokens=\toks14
 \tipachecktokens=\toks15
 
@@ -647,7 +648,7 @@ File: xetex.def 2013/04/29 v0.96 LaTeX color/graphics driver for XeTeX (RRM/JK)
 .................................................
 Variant \prop_gput:cnV already defined; not changing it on line 582
 Variant \prop_gput:cnx already defined; not changing it on line 583
-\l_fontspec_tmp_int=\count129
+\l_fontspec_tmp_int=\count130
 LaTeX Info: Redefining \itshape on input line 2087.
 LaTeX Info: Redefining \slshape on input line 2092.
 LaTeX Info: Redefining \scshape on input line 2097.
@@ -1013,7 +1014,7 @@ Requested font "IPAæ^^98^^8eæ^^9c^^9d/ICU" at 10.0pt
  -> E:/Program Files/MiKTeX 2.9/fonts/truetype/public/ipaex/ipam.ttf
 Requested font "IPAæ^^98^^8eæ^^9c^^9d/ICU" at 10.0pt
  -> E:/Program Files/MiKTeX 2.9/fonts/truetype/public/ipaex/ipam.ttf
-\g_fontspec_family_IPA明朝_int=\count130
+\g_fontspec_family_IPA明朝_int=\count131
 Requested font "IPAæ^^98^^8eæ^^9c^^9d/ICU" at 10.0pt
  -> E:/Program Files/MiKTeX 2.9/fonts/truetype/public/ipaex/ipam.ttf
 Requested font "IPAã^^82´ã^^82·ã^^83^^83ã^^82¯/ICU" at 10.0pt
@@ -1054,82 +1055,347 @@ Requested font "IPAã^^82´ã^^82·ã^^83^^83ã^^82¯/I/ICU" at 10.0pt
 Package: ruby 2012/05/07 4.8.3
 \ruby@width=\dimen165
 )
-("E:\Program Files\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty"
-("E:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty"
-("E:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty"
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.tex"
-\pgfutil@everybye=\toks17
+("E:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("E:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
 )
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-latex.def"
-\pgfutil@abb=\box45
+\Gm@cnth=\count132
+\Gm@cntv=\count133
+\c@Gm@tempcnt=\count134
+\Gm@bindingoffset=\dimen166
+\Gm@wd@mp=\dimen167
+\Gm@odd@mp=\dimen168
+\Gm@even@mp=\dimen169
+\Gm@layoutwidth=\dimen170
+\Gm@layoutheight=\dimen171
+\Gm@layouthoffset=\dimen172
+\Gm@layoutvoffset=\dimen173
+\Gm@dimlist=\toks17
 
-("E:\Program Files\MiKTeX 2.9\tex\latex\ms\everyshi.sty"
-Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+("E:\Program Files\MiKTeX 2.9\tex\xelatex\xetexconfig\geometry.cfg"))
+("E:\Program Files\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("E:\Program Files\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks18
+\verbatim@line=\toks19
+\verbatim@in@stream=\read2
+)
+("E:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+("E:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: xetex.def on input line 130.
+)
+("E:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+("E:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
+
+
+("E:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+("E:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+("E:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen174
+\Hy@linkcounter=\count135
+\Hy@pagecounter=\count136
+
+("E:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count137
+
+("E:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4319.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count138
+
+("E:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen175
+Requested font "pzdr" at 0.00002pt
+\Fld@menulength=\count139
+\Field@Width=\dimen176
+\Fld@charsize=\dimen177
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring ON on input line 6313.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count140
+\c@Item=\count141
+\c@Hfootnote=\count142
+)
+
+Package hyperref Message: Driver (autodetected): hxetex.
+
+("E:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hxetex.def"
+File: hxetex.def 2012/11/06 v6.83m Hyperref driver for XeTeX
+
+("E:\Program Files\MiKTeX 2.9\tex\latex\hyperref\puenc.def"
+File: puenc.def 2012/11/06 v6.83m Hyperref: PDF Unicode definition (HO)
+)
+("E:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\stringenc.sty"
+Package: stringenc 2011/12/02 v1.10 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box45
+\c@Hy@AnnotLevel=\count143
+\HyField@AnnotCount=\count144
+\Fld@listcount=\count145
+\c@bookmark@seq@number=\count146
+
+("E:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package rerunfilecheck Info: Feature \pdfmdfivesum is not available
+(rerunfilecheck)             (e.g. pdfTeX or LuaTeX with package `pdftexcmds').
+
+(rerunfilecheck)             Therefore file contents cannot be checked efficien
+tly
+(rerunfilecheck)             and the loading of the package is aborted.
+)
+\Hy@SectionHShift=\skip55
+)
+("E:\Program Files\MiKTeX 2.9\tex\latex\lipsum\lipsum.sty"
+Package: lipsum 2011/04/14 v1.2 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count147
+)
+("E:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
+\fancy@headwidth=\skip56
+\f@ncyO@elh=\skip57
+\f@ncyO@erh=\skip58
+\f@ncyO@olh=\skip59
+\f@ncyO@orh=\skip60
+\f@ncyO@elf=\skip61
+\f@ncyO@erf=\skip62
+\f@ncyO@olf=\skip63
+\f@ncyO@orf=\skip64
+)
+("E:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2008/07/08 v3.8m The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("E:\Program Files\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("E:\Program Files\MiKTeX 2.9\tex\generic\babel\english.ldf"
+Language: english 2005/03/30 v3.3o English support from the babel system
+
+("E:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count148
+\U@D=\dimen178
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
 ))
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex"
-Package: pgfrcs 2010/10/25 v2.10 (rcs-revision 1.24)
-))
-Package: pgf 2008/01/15 v2.10 (rcs-revision 1.12)
+("E:\Program Files\MiKTeX 2.9\tex\latex\blindtext\blindtext.sty"
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
 
-("E:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty"
-("E:\Program Files\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty"
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex"
-Package: pgfsys 2010/06/30 v2.10 (rcs-revision 1.37)
+("E:\Program Files\MiKTeX 2.9\tex\latex\tools\xspace.sty"
+Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count149
+\c@Blindtext=\count150
+\c@blind@countparstart=\count151
+\blind@countxx=\count152
+\blindtext@numBlindtext=\count153
+\blind@countyy=\count154
+\c@blindlist=\count155
+\c@blindlistlevel=\count156
+\c@blindlist@level=\count157
+\blind@listitem=\count158
+\c@blind@listcount=\count159
+\c@blind@levelcount=\count160
+\blind@mathformula=\count161
+\blind@Mathformula=\count162
+\c@blind@randomcount=\count163
+\c@blind@randommax=\count164
+\c@blind@pangramcount=\count165
+\c@blind@pangrammax=\count166
+)
+("E:\Program Files\MiKTeX 2.9\tex\latex\pst-node\pst-node.sty"
+Package: pst-node 2012/09/18 v1.01 LaTeX wrapper for `pst-node' (HV)
 
+("E:\Program Files\MiKTeX 2.9\tex\latex\pstricks\pstricks.sty"
+Package: pstricks 2013/12/12 v0.60 LaTeX wrapper for `PSTricks' (RN,HV)
+
+("E:\Program Files\MiKTeX 2.9\tex\generic\pstricks\base\pstricks.tex"
+("E:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\pst-xkey.tex"
+File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
+
+("E:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
+Package: xkeyval 2012/10/14 v2.6b package option processing (HA)
+
+("E:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
+\XKV@toks=\toks20
+\XKV@tempa@toks=\toks21
+\XKV@depth=\count167
+File: xkeyval.tex 2012/10/14 v2.6b key=value parser (HA)
+)))
+("E:\Program Files\MiKTeX 2.9\tex\generic\pstricks\base\pst-fp.tex"
+`pst-fp' v0.05, 2010/01/17 (hv)
+\pstFP@xs=\count168
+\pstFP@xia=\count169
+\pstFP@xib=\count170
+\pstFP@xfa=\count171
+\pstFP@xfb=\count172
+\pstFP@rega=\count173
+\pstFP@regb=\count174
+\pstFP@regs=\count175
+\pstFP@times=\count176
+)
+("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.tex"
+\pgfutil@everybye=\toks22
+)
 ("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex"
-\pgfkeys@pathtoks=\toks18
-\pgfkeys@temptoks=\toks19
+\pgfkeys@pathtoks=\toks23
+\pgfkeys@temptoks=\toks24
 
 ("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.code.te
 x"
-\pgfkeys@tmptoks=\toks20
-))
-\pgf@x=\dimen166
-\pgf@y=\dimen167
-\pgf@xa=\dimen168
-\pgf@ya=\dimen169
-\pgf@xb=\dimen170
-\pgf@yb=\dimen171
-\pgf@xc=\dimen172
-\pgf@yc=\dimen173
-\w@pgf@writea=\write3
-\r@pgf@reada=\read2
-\c@pgf@counta=\count131
-\c@pgf@countb=\count132
-\c@pgf@countc=\count133
-\c@pgf@countd=\count134
- ("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgf.cfg"
-File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+\pgfkeys@tmptoks=\toks25
+)) ("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex"
+\pgffor@iter=\dimen179
+\pgffor@skip=\dimen180
+\pgffor@stack=\toks26
+\pgffor@toks=\toks27
 )
-Package pgfsys Info: Driver file for pgf: pgfsys-xetex.def on input line 900.
+\psLoopIndex=\count177
 
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-xetex.def"
-File: pgfsys-xetex.def 2010/02/16  (rcs-revision 1.3)
+`PSTricks' v2.50  <2014/01/16> (tvz)
+\pst@dima=\dimen181
+\pst@dimb=\dimen182
+\pst@dimc=\dimen183
+\pst@dimd=\dimen184
+\pst@dimg=\dimen185
+\pst@dimh=\dimen186
+\pst@dimm=\dimen187
+\pst@dimn=\dimen188
+\pst@dimo=\dimen189
+\pst@dimp=\dimen190
+\pst@hbox=\box46
+\pst@ibox=\box47
+\pst@boxg=\box48
+\pst@cnta=\count178
+\pst@cntb=\count179
+\pst@cntc=\count180
+\pst@cntd=\count181
+\pst@cntg=\count182
+\pst@cnth=\count183
+\pst@cntm=\count184
+\pst@cntn=\count185
+\pst@cnto=\count186
+\pst@cntp=\count187
+\@zero=\count188
+\pst@toks=\toks28
+("E:\Program Files\MiKTeX 2.9\tex\xelatex\xetex-pstricks\pstricks.con"
+("E:\Program Files\MiKTeX 2.9\tex\latex\xdvipdfmx.cfg"))
+\psunit=\dimen191
+\psxunit=\dimen192
+\psyunit=\dimen193
+\pst@C@@rType=\count189
+\pslinewidth=\dimen194
+\psk@startLW=\dimen195
+\psk@endLW=\dimen196
+\pst@customdefs=\toks29
+\pslinearc=\dimen197
+\pst@symbolStep=\dimen198
+\pst@symbolWidth=\dimen199
+\pst@symbolLinewidth=\dimen200
+\everypsbox=\toks30
+\psframesep=\dimen201
+Normal \dimen register pool exhausted, switching to extended pool.
+\pslabelsep=\dimen256
+\sh@wgridXunit=\dimen257
+\sh@wgridYunit=\dimen258
+\pst@shift=\dimen259
 
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
-"
-File: pgfsys-common-pdf.def 2008/05/19  (rcs-revision 1.10)
-)
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-common-pdf-via
--dvi.def"
-File: pgfsys-common-pdf-via-dvi.def 2008/05/19  (rcs-revision 1.7)
+("E:\Program Files\MiKTeX 2.9\tex\xelatex\xetex-pstricks\pstricks.con"
+("E:\Program Files\MiKTeX 2.9\tex\latex\xdvipdfmx.cfg"
+Using PSTricks configuration for XeTeX+xdvipdfmx
 )))
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.t
-ex"
-File: pgfsyssoftpath.code.tex 2008/07/18  (rcs-revision 1.7)
-\pgfsyssoftpath@smallbuffer@items=\count135
-\pgfsyssoftpath@bigbuffer@items=\count136
-)
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.t
-ex"
-File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
-)) ("E:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+File: pstricks.tex 2014/01/16 v2.50 `PSTricks' (tvz,hv)
+ ("E:\Program Files\MiKTeX 2.9\tex\generic\pstricks\base\pst-fp.tex")
+File: pst-fp.tex 2014/01/16 v2.50 `PST-fp' (hv)
+
+("E:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
 ("E:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package xcolor Info: Driver file: xetex.def on input line 225.
+LaTeX Info: Redefining \color on input line 702.
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
 Package xcolor Info: Model `RGB' extended on input line 1353.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
@@ -1138,282 +1404,94 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
-)
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex"
-Package: pgfcore 2010/04/11 v2.10 (rcs-revision 1.7)
-
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex"
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathcalc.code.tex"
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex")
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.tex"
-\pgfmath@dimen=\dimen174
-\pgfmath@count=\count137
-\pgfmath@box=\box46
-\pgfmath@toks=\toks21
-\pgfmath@stack@operand=\toks22
-\pgfmath@stack@operation=\toks23
-)
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.code.tex"
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.basic.code.
-tex")
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.trigonometr
-ic.code.tex")
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.random.code
-.tex")
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.comparison.
-code.tex")
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.base.code.t
-ex")
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.round.code.
-tex")
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.misc.code.t
-ex"))) ("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex
-"
-\c@pgfmathroundto@lastzeros=\count138
 ))
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
-"
-File: pgfcorepoints.code.tex 2010/04/09  (rcs-revision 1.20)
-\pgf@picminx=\dimen175
-\pgf@picmaxx=\dimen176
-\pgf@picminy=\dimen177
-\pgf@picmaxy=\dimen178
-\pgf@pathminx=\dimen179
-\pgf@pathmaxx=\dimen180
-\pgf@pathminy=\dimen181
-\pgf@pathmaxy=\dimen182
-\pgf@xx=\dimen183
-\pgf@xy=\dimen184
-\pgf@yx=\dimen185
-\pgf@yy=\dimen186
-\pgf@zx=\dimen187
-\pgf@zy=\dimen188
-)
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathconstruct.c
-ode.tex"
-File: pgfcorepathconstruct.code.tex 2010/08/03  (rcs-revision 1.24)
-\pgf@path@lastx=\dimen189
-\pgf@path@lasty=\dimen190
-)
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathusage.code.
-tex"
-File: pgfcorepathusage.code.tex 2008/04/22  (rcs-revision 1.12)
-\pgf@shorten@end@additional=\dimen191
-\pgf@shorten@start@additional=\dimen192
-)
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
-"
-File: pgfcorescopes.code.tex 2010/09/08  (rcs-revision 1.34)
-\pgfpic=\box47
-\pgf@hbox=\box48
-\pgf@layerbox@main=\box49
-\pgf@picture@serial@count=\count139
-)
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoregraphicstate.co
-de.tex"
-File: pgfcoregraphicstate.code.tex 2008/04/22  (rcs-revision 1.9)
-\pgflinewidth=\dimen193
-)
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransformations
-.code.tex"
-File: pgfcoretransformations.code.tex 2009/06/10  (rcs-revision 1.11)
-\pgf@pt@x=\dimen194
-\pgf@pt@y=\dimen195
-\pgf@pt@temp=\dimen196
-)
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorequick.code.tex"
-File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
-)
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreobjects.code.te
-x"
-File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
-)
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathprocessing.
-code.tex"
-File: pgfcorepathprocessing.code.tex 2008/10/09  (rcs-revision 1.8)
-)
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
-"
-File: pgfcorearrows.code.tex 2008/04/23  (rcs-revision 1.11)
-)
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex"
-File: pgfcoreshade.code.tex 2008/11/23  (rcs-revision 1.13)
-\pgf@max=\dimen197
-\pgf@sys@shading@range@num=\count140
-) ("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreimage.code.te
-x"
-File: pgfcoreimage.code.tex 2010/03/25  (rcs-revision 1.16)
+Package: pst-node 2010/04/22 package wrapper for pst-node.tex
 
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreexternal.code.t
-ex"
-File: pgfcoreexternal.code.tex 2010/09/01  (rcs-revision 1.17)
-\pgfexternal@startupbox=\box50
-))
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
-"
-File: pgfcorelayers.code.tex 2010/08/27  (rcs-revision 1.2)
+("E:\Program Files\MiKTeX 2.9\tex\generic\pst-node\tex\pst-node.tex"
+ v1.30, 2013/09/17
+\psrow=\count190
+\pscol=\count191
+\psmatrixcnt=\count192
+\psrowsep=\skip65
+\pscolsep=\skip66
+\pst@args=\count193
+\num@pts=\count194
+\pst@argcnt=\count195
 )
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransparency.co
-de.tex"
-File: pgfcoretransparency.code.tex 2008/01/17  (rcs-revision 1.2)
+File: pst-node.tex 2013/09/17 1.30 `pst-node' (tvz,hv)
+) ("E:\Program Files\MiKTeX 2.9\tex\latex\picins\picins.sty" Option `picins' Ve
+rsion 3.0 Sep. 1992, TH Darmstadt/HRZ
+\@BILD=\box49
+\@TEXT=\box50
+\d@breite=\dimen260
+\d@hoehe=\dimen261
+\d@xoff=\dimen262
+\d@yoff=\dimen263
+\d@shad=\dimen264
+\d@dash=\dimen265
+\d@boxl=\dimen266
+\d@pichskip=\dimen267
+\d@tmp=\dimen268
+\d@tmpa=\dimen269
+\d@bskip=\dimen270
+\hsiz@=\dimen271
+\p@getot@l=\dimen272
+\c@breite=\count196
+\c@hoehe=\count197
+\c@xoff=\count198
+\c@yoff=\count199
+\c@pos=\count200
+\c@shad=\count201
+Normal \count register pool exhausted, switching to extended pool.
+\c@dash=\count277
+\c@boxl=\count278
+\c@zeilen=\count279
+\@changemode=\count280
+\c@piccaption=\count281
+\c@piccaptionpos=\count282
+\c@picpos=\count283
+\c@whole=\count284
+\c@half=\count285
+\c@tmp=\count286
+\c@tmpa=\count287
+\c@tmpb=\count288
+\c@tmpc=\count289
+\c@tmpd=\count290
+\d@leftskip=\skip67
+\ptoti=\dimen273
+\ptotii=\dimen274
+\env@box=\box51
+\d@envdp=\dimen275
+\c@hsize=\count291
+\c@envdp=\count292
+\d@envb=\dimen276
 )
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepatterns.code.t
-ex"
-File: pgfcorepatterns.code.tex 2009/07/02  (rcs-revision 1.3)
-)))
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleshapes.code.tex"
-File: pgfmoduleshapes.code.tex 2010/09/09  (rcs-revision 1.13)
-\pgfnodeparttextbox=\box51
-) ("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleplot.code.tex"
-File: pgfmoduleplot.code.tex 2010/10/22  (rcs-revision 1.8)
-)
-("E:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.
-sty"
-Package: pgfcomp-version-0-65 2007/07/03 v2.10 (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen198
-\pgf@nodesepend=\dimen199
-)
-("E:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.
-sty"
-Package: pgfcomp-version-1-18 2007/07/23 v2.10 (rcs-revision 1.1)
-)) ("E:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty"
-("E:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty"
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex"))
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex"
-Package: pgffor 2010/03/23 v2.10 (rcs-revision 1.18)
-\pgffor@iter=\dimen200
-\pgffor@skip=\dimen201
-\pgffor@stack=\toks24
-\pgffor@toks=\toks25
-))
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex"
-Package: tikz 2010/10/13 v2.10 (rcs-revision 1.76)
-
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.
-code.tex"
-File: pgflibraryplothandlers.code.tex 2010/05/31 v2.10 (rcs-revision 1.15)
-\pgf@plot@mark@count=\count141
-Normal \dimen register pool exhausted, switching to extended pool.
-\pgfplotmarksize=\dimen256
-)
-\tikz@lastx=\dimen257
-\tikz@lasty=\dimen258
-\tikz@lastxsaved=\dimen259
-\tikz@lastysaved=\dimen260
-\tikzleveldistance=\dimen261
-\tikzsiblingdistance=\dimen262
-\tikz@figbox=\box52
-\tikz@tempbox=\box53
-\tikztreelevel=\count142
-\tikznumberofchildren=\count143
-\tikznumberofcurrentchild=\count144
-\tikz@fig@count=\count145
-
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulematrix.code.tex"
-File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
-\pgfmatrixcurrentrow=\count146
-\pgfmatrixcurrentcolumn=\count147
-\pgf@matrix@numberofcolumns=\count148
-)
-\tikz@expandcount=\count149
-
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
-librarytopaths.code.tex"
-File: tikzlibrarytopaths.code.tex 2008/06/17 v2.10 (rcs-revision 1.2)
-)))
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
-libraryarrows.code.tex"
-File: tikzlibraryarrows.code.tex 2008/01/09 v2.10 (rcs-revision 1.1)
-
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryarrows.code.t
-ex"
-File: pgflibraryarrows.code.tex 2008/10/27 v2.10 (rcs-revision 1.9)
-\arrowsize=\dimen263
-))
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
-libraryautomata.code.tex"
-File: tikzlibraryautomata.code.tex 2008/07/14 v2.10 (rcs-revision 1.3)
-
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
-libraryshapes.multipart.code.tex"
-File: tikzlibraryshapes.multipart.code.tex 2008/01/09 v2.10 (rcs-revision 1.1)
-
-("E:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\shapes\pgflibraryshapes
-.multipart.code.tex"
-File: pgflibraryshapes.multipart.code.tex 2010/01/07 v2.10 (rcs-revision 1.2)
-\pgfnodepartlowerbox=\box54
-\pgfnodeparttwobox=\box55
-\pgfnodepartthreebox=\box56
-\pgfnodepartfourbox=\box57
-\pgfnodeparttwentybox=\box58
-\pgfnodepartnineteenbox=\box59
-\pgfnodeparteighteenbox=\box60
-\pgfnodepartseventeenbox=\box61
-\pgfnodepartsixteenbox=\box62
-\pgfnodepartfifteenbox=\box63
-\pgfnodepartfourteenbox=\box64
-\pgfnodepartthirteenbox=\box65
-\pgfnodeparttwelvebox=\box66
-\pgfnodepartelevenbox=\box67
-\pgfnodeparttenbox=\box68
-\pgfnodepartninebox=\box69
-\pgfnodeparteightbox=\box70
-\pgfnodepartsevenbox=\box71
-\pgfnodepartsixbox=\box72
-\pgfnodepartfivebox=\box73
-)))
-("E:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
-Package: geometry 2010/09/12 v5.6 Page Geometry
-
-("E:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
-Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
-Package ifvtex Info: VTeX not detected.
-)
-\Gm@cnth=\count150
-\Gm@cntv=\count151
-\c@Gm@tempcnt=\count152
-\Gm@bindingoffset=\dimen264
-\Gm@wd@mp=\dimen265
-\Gm@odd@mp=\dimen266
-\Gm@even@mp=\dimen267
-\Gm@layoutwidth=\dimen268
-\Gm@layoutheight=\dimen269
-\Gm@layouthoffset=\dimen270
-\Gm@layoutvoffset=\dimen271
-\Gm@dimlist=\toks26
-
-("E:\Program Files\MiKTeX 2.9\tex\xelatex\xetexconfig\geometry.cfg"))
-("E:\Program Files\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
-Package: setspace 2011/12/19 v6.7a set line spacing
-)
-("E:\Program Files\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
-Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks27
-\verbatim@line=\toks28
-\verbatim@in@stream=\read3
-)
-(E:\Users\zheng\Desktop\Proj-ZARD-Lyric.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 36.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 36.
+("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\Proj-ZARD-Lyric.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 31.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 31.
 
 ("E:\Program Files\MiKTeX 2.9\tex\latex\tipa\t3cmr.fd"
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
 .................................................
 . fontspec info: "setup-math"
 . 
@@ -1421,69 +1499,69 @@ LaTeX Font Info:    ... okay on input line 36.
 .................................................
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 36.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 36.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 36.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 36.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 36.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 36.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 36.
-LaTeX Font Info:    Redeclaring math accent \check on input line 36.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 36.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 36.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 36.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 36.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 31.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 31.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 31.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 31.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 31.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 31.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 31.
+LaTeX Font Info:    Redeclaring math accent \check on input line 31.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 31.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 31.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 31.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 31.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 36.
+(Font)              `operators' in the math version `normal' on input line 31.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> EU1/lmr/m/n on input line 36.
+(Font)                  OT1/cmr/m/n --> EU1/lmr/m/n on input line 31.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `bold' on input line 36.
+(Font)              `operators' in the math version `bold' on input line 31.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> EU1/lmr/m/n on input line 36.
+(Font)                  OT1/cmr/bx/n --> EU1/lmr/m/n on input line 31.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  EU1/lmr/m/n --> EU1/lmr/m/n on input line 36.
+(Font)                  EU1/lmr/m/n --> EU1/lmr/m/n on input line 31.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  EU1/lmr/m/n --> EU1/lmr/m/n on input line 36.
+(Font)                  EU1/lmr/m/n --> EU1/lmr/m/n on input line 31.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> EU1/lmr/m/it on input line 36.
+(Font)                  OT1/cmr/m/it --> EU1/lmr/m/it on input line 31.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> EU1/lmr/bx/n on input line 36.
+(Font)                  OT1/cmr/bx/n --> EU1/lmr/bx/n on input line 31.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> EU1/lmss/m/n on input line 36.
+(Font)                  OT1/cmss/m/n --> EU1/lmss/m/n on input line 31.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 36.
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 31.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  EU1/lmr/m/n --> EU1/lmr/bx/n on input line 36.
+(Font)                  EU1/lmr/m/n --> EU1/lmr/bx/n on input line 31.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  EU1/lmr/m/n --> EU1/lmr/bx/n on input line 36.
+(Font)                  EU1/lmr/m/n --> EU1/lmr/bx/n on input line 31.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> EU1/lmr/bx/it on input line 36.
+(Font)                  OT1/cmr/bx/it --> EU1/lmr/bx/it on input line 31.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> EU1/lmss/bx/n on input line 36.
+(Font)                  OT1/cmss/bx/n --> EU1/lmss/bx/n on input line 31.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 36.
-LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 36.
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 31.
+LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 31.
 Requested font "IPAæ^^98^^8eæ^^9c^^9d/ICU:script=hani;language=DFLT;" at 10.0pt
  -> E:/Program Files/MiKTeX 2.9/fonts/truetype/public/ipaex/ipam.ttf
 Requested font "IPAã^^82´ã^^82·ã^^83^^83ã^^82¯/ICU" at 10.0pt
  -> E:/Program Files/MiKTeX 2.9/fonts/truetype/public/ipaex/ipag.ttf
 Requested font "IPAã^^82´ã^^82·ã^^83^^83ã^^82¯/ICU" at 10.0pt
  -> E:/Program Files/MiKTeX 2.9/fonts/truetype/public/ipaex/ipag.ttf
-\g_fontspec_family_IPAゴシック_int=\count153
+\g_fontspec_family_IPAゴシック_int=\count293
 Requested font "IPAã^^82´ã^^82·ã^^83^^83ã^^82¯/ICU" at 10.0pt
  -> E:/Program Files/MiKTeX 2.9/fonts/truetype/public/ipaex/ipag.ttf
 Requested font "IPAã^^82´ã^^82·ã^^83^^83ã^^82¯/ICU" at 10.0pt
@@ -1540,57 +1618,130 @@ Requested font "IPAã^^82´ã^^82·ã^^83^^83ã^^82¯/ICU" at 10.0pt
 . This font family consists of the following shapes:
 .................................................
 
-ABD: EveryShipout initializing macros
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
 * paper: <default>
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(90.3375pt, 433.62001pt, 90.3375pt)
-* v-part:(T,H,B)=(57.81621pt, 679.33757pt, 57.81621pt)
-* \paperwidth=614.295pt
-* \paperheight=794.96999pt
-* \textwidth=433.62001pt
-* \textheight=679.33757pt
-* \oddsidemargin=18.0675pt
-* \evensidemargin=18.0675pt
-* \topmargin=-51.45378pt
+* modes: twoside 
+* h-part:(L,W,R)=(28.45274pt, 364.1953pt, 28.45274pt)
+* v-part:(T,H,B)=(56.9055pt, 483.69687pt, 56.9055pt)
+* \paperwidth=421.10078pt
+* \paperheight=597.50787pt
+* \textwidth=364.1953pt
+* \textheight=483.69687pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-45.43198pt
 * \headheight=12.0pt
-* \headsep=25.0pt
+* \headsep=18.06749pt
 * \topskip=10.0pt
-* \footskip=30.0pt
-* \marginparwidth=65.0pt
-* \marginparsep=11.0pt
+* \footskip=25.29494pt
+* \marginparwidth=125.0pt
+* \marginparsep=7.0pt
 * \columnsep=10.0pt
 * \skip\footins=9.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
 * \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
+* \@twosidetrue
+* \@mparswitchtrue
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-File: 2.jpg Graphic file (type QTm)
-<use  "2.jpg" >
+\AtBeginShipoutBox=\box52
+Package hyperref Info: Link coloring ON on input line 31.
+("E:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+("E:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count294
+)
+LaTeX Info: Redefining \ref on input line 31.
+LaTeX Info: Redefining \pageref on input line 31.
+LaTeX Info: Redefining \nameref on input line 31.
+
+("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\Proj-ZARD-Lyric.out")
+("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\Proj-ZARD-Lyric.out")
+\@outlinefile=\write3
+Invalid UTF-8 byte or sequence at line 34 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 34 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 34 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 34 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 34 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 34 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 34 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 34 replaced by U+FFFD.
+File: 1.eps Graphic file (type eps)
+ <1.eps>
+Requested font "[lmroman12-bold]:mapping=tex-text" at 24.88pt
+ -> E:/Program Files/MiKTeX 2.9/fonts/opentype/public/lm/lmroman12-bold.otf
 Requested font "[lmroman12-bold]:mapping=tex-text" at 20.74pt
  -> E:/Program Files/MiKTeX 2.9/fonts/opentype/public/lm/lmroman12-bold.otf
+Requested font "[lmroman9-bold]:mapping=tex-text" at 9.0pt
+ -> E:/Program Files/MiKTeX 2.9/fonts/opentype/public/lm/lmroman9-bold.otf
+Requested font "[lmroman12-bold]:mapping=tex-text" at 14.4pt
+ -> E:/Program Files/MiKTeX 2.9/fonts/opentype/public/lm/lmroman12-bold.otf
+Requested font "[lmroman8-bold]:mapping=tex-text" at 8.0pt
+ -> E:/Program Files/MiKTeX 2.9/fonts/opentype/public/lm/lmroman8-bold.otf
+Requested font "[lmroman12-bold]:mapping=tex-text" at 12.0pt
+ -> E:/Program Files/MiKTeX 2.9/fonts/opentype/public/lm/lmroman12-bold.otf
 
-Underfull \hbox (badness 10000) in paragraph at lines 45--48
+("E:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\se-ascii-print.def"
+File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
+
+)
+[0
+
+]
+Requested font "[lmroman17-regular]:mapping=tex-text" at 24.88pt
+ -> E:/Program Files/MiKTeX 2.9/fonts/opentype/public/lm/lmroman17-regular.otf
+ ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\Proj-ZARD-Lyric.toc"
+Requested font "[lmroman7-regular]:mapping=tex-text" at 7.0pt
+ -> E:/Program Files/MiKTeX 2.9/fonts/opentype/public/lm/lmroman7-regular.otf
+Requested font "[lmroman5-regular]:mapping=tex-text" at 5.0pt
+ -> E:/Program Files/MiKTeX 2.9/fonts/opentype/public/lm/lmroman5-regular.otf
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 3.
+ [1
+
+]
+[2] [3] [4] [5])
+\tf@toc=\write4
+ ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\chapter1.tex"
+[6]
+Chapter 1.
+Requested font "[lmroman17-regular]:mapping=tex-text" at 20.74pt
+ -> E:/Program Files/MiKTeX 2.9/fonts/opentype/public/lm/lmroman17-regular.otf
+Requested font "[lmroman17-regular]:mapping=tex-text" at 17.28pt
+ -> E:/Program Files/MiKTeX 2.9/fonts/opentype/public/lm/lmroman17-regular.otf
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--9
 
  []
 
-Requested font "IPAã^^82´ã^^82·ã^^83^^83ã^^82¯/ICU:script=hani;language=DFLT;" 
-at 20.74pt
- -> E:/Program Files/MiKTeX 2.9/fonts/truetype/public/ipaex/ipag.ttf
+File: 1.jpg Graphic file (type QTm)
+<use  "1.jpg" >
+Requested font "[lmroman9-regular]:mapping=tex-text" at 9.0pt
+ -> E:/Program Files/MiKTeX 2.9/fonts/opentype/public/lm/lmroman9-regular.otf
+Requested font "IPAæ^^98^^8eæ^^9c^^9d/ICU:script=hani;language=DFLT;" at 5.0pt
+ -> E:/Program Files/MiKTeX 2.9/fonts/truetype/public/ipaex/ipam.ttf
+Requested font "IPAæ^^98^^8eæ^^9c^^9d/ICU:script=hani;language=DFLT;" at 9.0pt
+ -> E:/Program Files/MiKTeX 2.9/fonts/truetype/public/ipaex/ipam.ttf
+ [7
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--52
+]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\1_0.tex"
+Requested font "[lmroman12-regular]:mapping=tex-text" at 14.4pt
+ -> E:/Program Files/MiKTeX 2.9/fonts/opentype/public/lm/lmroman12-regular.otf
+File: S1.jpg Graphic file (type QTm)
 
- []
-
+<use  "S1.jpg" >
 Requested font "[lmroman12-regular]:mapping=tex-text" at 12.0pt
  -> E:/Program Files/MiKTeX 2.9/fonts/opentype/public/lm/lmroman12-regular.otf
 Requested font "IPAæ^^98^^8eæ^^9c^^9d/ICU:script=hani;language=DFLT;" at 12.0pt
@@ -1601,7 +1752,160 @@ Requested font "IPAæ^^98^^8eæ^^9c^^9d/ICU:script=hani;language=DFLT;" at 4.799
 3pt
  -> E:/Program Files/MiKTeX 2.9/fonts/truetype/public/ipaex/ipam.ttf
 
-Underfull \hbox (badness 10000) in paragraph at lines 58--60
+Underfull \hbox (badness 10000) in paragraph at lines 16--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--51
+
+ []
+
+[8
+
+]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\1_1.tex"
+Requested font "IPAã^^82´ã^^82·ã^^83^^83ã^^82¯/ICU:script=hani;language=DFLT;" 
+at 14.4pt
+ -> E:/Program Files/MiKTeX 2.9/fonts/truetype/public/ipaex/ipag.ttf
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--41
+
+ []
+
+
+LaTeX Font Warning: Font shape `EU1/IPA明朝(0)/m/sl' undefined
+(Font)              using `EU1/IPA明朝(0)/m/n' instead on input line 41.
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 48--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--81
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\1_2.tex"
+Underfull \vbox (badness 1297) has occurred while \output is active []
+
+ [10]
+Underfull \hbox (badness 10000) in paragraph at lines 20--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--50
+
+ []
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 57--59
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\1_3.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--32
+
+ []
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 35--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--63
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\1_4.tex" [13]
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--51
+
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 56--58
 
  []
 
@@ -1611,12 +1915,4444 @@ Underfull \hbox (badness 10000) in paragraph at lines 69--71
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 80--82
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\1_5.tex" [15]
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
+
+ []
+
+! Misplaced alignment tab character &.
+l.24 So day &
+              night hold me tight all the night
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--44
+
+ []
+
+! Misplaced alignment tab character &.
+l.47 So day &
+              night all the day all the night
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.51 So day &
+              night hold me tight all the night
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\chapter2.tex" [16]
+Chapter 2.
+Requested font "IPAæ^^98^^8eæ^^9c^^9d/ICU:script=hani;language=DFLT;" at 17.28p
+t
+ -> E:/Program Files/MiKTeX 2.9/fonts/truetype/public/ipaex/ipam.ttf
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--9
+
+ []
+
+File: 2.jpg Graphic file (type QTm)
+<use  "2.jpg" > [17
+
+]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\2_0.tex"
+File: S2.jpg Graphic file (type QTm)
+
+<use  "S2.jpg" >
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\2_1.tex" [18
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 13--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+
+ []
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 54--56
+
+ []
+
+File: S3.jpg Graphic file (type QTm)
+<use  "S3.jpg" >) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\2_2.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
+
+ []
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 22--24
+
+ []
+
+File: S45.jpg Graphic file (type QTm)
+<use  "S45.jpg" >
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+
+Overfull \hbox (0.35548pt too wide) in paragraph at lines 37--38
+[][]\EU1/IPA明朝(0)/m/n/12 し か っ た け ど 　 つ ら く な っ て ゆ く 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--46
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\2_3.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 13--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--33
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\2_4.tex" [22]
+Underfull \hbox (badness 10000) in paragraph at lines 20--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--35
+
+ []
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 54--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--69
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--80
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\2_5.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 6--8
+
+ []
+
+[24]
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--55
+
+ []
+
+[25]
+Underfull \hbox (badness 10000) in paragraph at lines 64--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--75
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--86
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\2_6.tex"
+Underfull \vbox (badness 1142) has occurred while \output is active []
+
+ [26]
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--35
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\chapter3.tex" [27]
+Chapter 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--8
+
+ []
+
+File: 3.jpg Graphic file (type QTm)
+<use  "3.jpg" > [28
+
+]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\3_0.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--42
+
+ []
+
+[29
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--64
+
+ []
+
+File: S4.jpg Graphic file (type QTm)
+<use  "S4.jpg" >) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\3_1.tex"
+[30]
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--33
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--38
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\3_2.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+[31]
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--39
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\3_3.tex" [32]
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
+
+ []
+
+[33]
+Underfull \hbox (badness 10000) in paragraph at lines 66--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--75
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--80
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\3_4.tex" [34]
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--54
+
+ []
+
+[35]
+Underfull \hbox (badness 10000) in paragraph at lines 63--65
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 78--80
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--84
+Underfull \hbox (badness 10000) in paragraph at lines 93--95
+
+ []
+
+[36]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\3_5.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--43
+
+ []
+
+[37]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\3_6.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
+
+ []
+
+[38]
+Underfull \hbox (badness 10000) in paragraph at lines 37--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\3_7.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--23
+
+ []
+
+[39]
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\3_8.tex" [40]
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--56
+
+ []
+
+[41]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\3_9.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 16--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
+
+ []
+
+[42]
+Underfull \hbox (badness 10000) in paragraph at lines 44--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--59
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\3_10.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 18--20
+
+ []
+
+[43]
+Underfull \hbox (badness 10000) in paragraph at lines 27--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--62
+
+ []
+
+[44]
+File: P12.jpg Graphic file (type QTm)
+ <use  "P12.jpg" >)
+("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\chapter4.tex" [45]
+Chapter 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--9
+
+ []
+
+File: 4.jpg Graphic file (type QTm)
+<use  "4.jpg" > [46
+
+]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\4_0.tex"
+File: S8.jpg Graphic file (type QTm)
+
+<use  "S8.jpg" >
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--56
+
+ []
+
+[47
+
+]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\4_1.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
+
+ []
+
+[48]
+Underfull \hbox (badness 10000) in paragraph at lines 37--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--51
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\4_2.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 6--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--26
+
+ []
+
+File: S7.jpg Graphic file (type QTm)
+<use  "S7.jpg" > [49]
+Underfull \hbox (badness 10000) in paragraph at lines 40--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--51
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\4_3.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+[50]
+Underfull \hbox (badness 10000) in paragraph at lines 23--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+
+ []
+
+File: S5.jpg Graphic file (type QTm)
+<use  "S5.jpg" >) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\4_4.tex"
+[51]
+Underfull \hbox (badness 10000) in paragraph at lines 16--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
+
+ []
+
+[52]
+Underfull \hbox (badness 10000) in paragraph at lines 42--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--57
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\4_5.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 11--13
+
+ []
+
+[53]
+Underfull \hbox (badness 10000) in paragraph at lines 22--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--33
+
+ []
+
+File: S6.jpg Graphic file (type QTm)
+<use  "S6.jpg" >
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--58
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\4_6.tex" [54]
+Underfull \hbox (badness 10000) in paragraph at lines 18--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
+
+ []
+
+[55]
+Underfull \hbox (badness 10000) in paragraph at lines 55--57
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--66
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\4_7.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
+
+ []
+
+[56]
+Underfull \hbox (badness 10000) in paragraph at lines 23--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--56
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\4_8.tex" [57]
+Underfull \hbox (badness 10000) in paragraph at lines 16--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--46
+
+ []
+
+[58]
+Underfull \hbox (badness 10000) in paragraph at lines 55--57
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\4_9.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
+
+ []
+
+[59]
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--42
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\chapter5.tex" [60]
+Chapter 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--9
+
+ []
+
+File: 5.jpg Graphic file (type QTm)
+<use  "5.jpg" > [61
+
+]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\5_0.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--40
+
+ []
+
+[62
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 55--57
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--74
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\5_1.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+[63]
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--52
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\5_2.tex"
+File: S10.jpg Graphic file (type QTm)
+ <use  "S10.jpg" >
+[64]
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--51
+
+ []
+
+[65]
+Underfull \hbox (badness 10000) in paragraph at lines 60--62
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\5_3.tex"
+File: S9.jpg Graphic file (type QTm)
+ <use  "S9.jpg" >
+Underfull \hbox (badness 10000) in paragraph at lines 18--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--29
+
+ []
+
+[66]
+Underfull \hbox (badness 10000) in paragraph at lines 40--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--51
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\5_4.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
+
+ []
+
+[67]
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--65
+
+ []
+
+[68]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\5_5.tex"
+File: S11.jpg Graphic file (type QTm)
+ <use  "S11.jpg" >
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+
+ []
+
+[69]
+Underfull \hbox (badness 10000) in paragraph at lines 48--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--63
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\5_6.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 18--20
+
+ []
+
+[70]
+Underfull \hbox (badness 10000) in paragraph at lines 35--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--52
+
+ []
+
+[71]
+Underfull \hbox (badness 10000) in paragraph at lines 69--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--80
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\5_7.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
+
+ []
+
+[72]
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--69
+
+ []
+
+[73]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\5_8.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--39
+
+ []
+
+[74]
+Underfull \hbox (badness 10000) in paragraph at lines 42--44
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\5_9.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--25
+
+ []
+
+[75]
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
+
+ []
+
+File: P2.jpg Graphic file (type QTm)
+<use  "P2.jpg" >) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\chapter6.tex"
+[76]
+Chapter 6.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--9
+
+ []
+
+File: 6.jpg Graphic file (type QTm)
+<use  "6.jpg" > [77
+
+]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\6_0.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 8--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--44
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\6_1.tex" [78
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 16--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--51
+
+ []
+
+[79]
+Underfull \hbox (badness 10000) in paragraph at lines 62--64
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\6_2.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 6--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--22
+
+ []
+
+[80]
+Underfull \hbox (badness 10000) in paragraph at lines 27--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--43
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\6_3.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--23
+
+ []
+
+[81]
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\6_4.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 13--15
+
+ []
+
+[82]
+Underfull \hbox (badness 10000) in paragraph at lines 26--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--39
+
+ []
+
+File: S13.jpg Graphic file (type QTm)
+<use  "S13.jpg" >
+Underfull \hbox (badness 10000) in paragraph at lines 53--55
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\6_5.tex" [83]
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--49
+
+ []
+
+[84]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\6_6.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+[85]
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\6_7.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 7--9
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--28
+
+ []
+
+File: S12.jpg Graphic file (type QTm)
+<use  "S12.jpg" > [86]
+Underfull \hbox (badness 10000) in paragraph at lines 44--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--65
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--78
+
+ []
+
+[87]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\6_8.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--32
+
+ []
+
+[88]
+Underfull \hbox (badness 10000) in paragraph at lines 41--43
+
+ []
+
+File: S14.jpg Graphic file (type QTm)
+<use  "S14.jpg" >) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\6_9.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
+
+ []
+
+[89]
+Underfull \hbox (badness 10000) in paragraph at lines 21--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--39
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\chapter7.tex" [90]
+Chapter 7.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--9
+
+ []
+
+File: 7.jpg Graphic file (type QTm)
+<use  "7.jpg" > [91
+
+]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\7_0.tex"
+File: S17.jpg Graphic file (type QTm)
+
+<use  "S17.jpg" >
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--42
+
+ []
+
+[92
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 57--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--74
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--87
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\7_1.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
+
+ []
+
+[93]
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--51
+
+ []
+
+[94]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\7_2.tex"
+File: S16.jpg Graphic file (type QTm)
+ <use  "S16.jpg" >
+Underfull \hbox (badness 10000) in paragraph at lines 18--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+
+ []
+
+[95]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\7_3.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
+
+ []
+
+[96]
+Underfull \hbox (badness 10000) in paragraph at lines 39--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--46
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\7_4.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 6--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--29
+
+ []
+
+[97]
+Underfull \hbox (badness 10000) in paragraph at lines 44--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--69
+
+ []
+
+[98]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\7_5.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 16--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+[99]
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--54
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\7_6.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 13--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--24
+
+ []
+
+File: S18.jpg Graphic file (type QTm)
+<use  "S18.jpg" > [100]
+Underfull \hbox (badness 10000) in paragraph at lines 36--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--56
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\7_7.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+[101]
+File: F1.jpg Graphic file (type QTm)
+ <use  "F1.jpg" >
+Underfull \hbox (badness 10000) in paragraph at lines 30--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--60
+
+ []
+
+[102]
+Underfull \hbox (badness 10000) in paragraph at lines 71--73
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\7_8.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
+
+ []
+
+[103]
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--52
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\7_9.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
+
+ []
+
+[104]
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--62
+
+ []
+
+[105]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\7_10.tex"
+File: S15.jpg Graphic file (type QTm)
+
+<use  "S15.jpg" >
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
+
+ []
+
+[106]
+Underfull \hbox (badness 10000) in paragraph at lines 68--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--88
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\7_11.tex" [107]
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
+
+ []
+
+[108]
+File: P3.jpg Graphic file (type QTm)
+ <use  "P3.jpg" >)
+("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\chapter8.tex" [109]
+Chapter 8.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--9
+
+ []
+
+File: 8.jpg Graphic file (type QTm)
+<use  "8.jpg" > [110
+
+]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\8_0.tex"
+File: S22.jpg Graphic file (type QTm)
+
+<use  "S22.jpg" >
+Underfull \hbox (badness 10000) in paragraph at lines 18--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
+
+ []
+
+[111
+
+]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\8_1.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 11--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--32
+
+ []
+
+File: S23.jpg Graphic file (type QTm)
+<use  "S23.jpg" >
+Underfull \hbox (badness 10000) in paragraph at lines 42--44
+
+ []
+
+[112]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\8_2.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 16--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--25
+
+ []
+
+[113]
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\8_3.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
+
+ []
+
+[114]
+Underfull \hbox (badness 10000) in paragraph at lines 23--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--57
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\8_4.tex" [115]
+File: S25.jpg Graphic file (type QTm)
+
+<use  "S25.jpg" >
+Underfull \hbox (badness 10000) in paragraph at lines 8--10
+
+ []
+
+
+Overfull \hbox (3.56584pt too wide) in paragraph at lines 17--19
+[]\EU1/IPA明朝(0)/m/n/12 あ の[]の[]を[]く で []て い る そ ん な[]じ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--46
+
+ []
+
+[116]
+Underfull \hbox (badness 10000) in paragraph at lines 53--55
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\8_5.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 16--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
+
+ []
+
+[117]
+Underfull \hbox (badness 10000) in paragraph at lines 41--43
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\8_6.tex"
+File: S26.jpg Graphic file (type QTm)
+ <use  "S26.jpg" >
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
+
+ []
+
+[118]
+Underfull \hbox (badness 10000) in paragraph at lines 39--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--65
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--78
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--81
+
+ []
+
+[119]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\8_7.tex"
+File: S27.jpg Graphic file (type QTm)
+
+<use  "S27.jpg" >
+Underfull \hbox (badness 10000) in paragraph at lines 18--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--38
+
+ []
+
+[120]
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--61
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\8_8.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
+
+ []
+
+[121]
+Underfull \hbox (badness 10000) in paragraph at lines 27--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--52
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\8_9.tex" [122]
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--54
+
+ []
+
+[123]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\8_10.tex"
+File: S24.jpg Graphic file (type QTm)
+
+<use  "S24.jpg" >
+Overfull \hbox (3.27483pt too wide) in paragraph at lines 10--12
+[][]\EU1/IPA明朝(0)/m/n/12 れ て て も []の[]に い る[]が す る の は[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
+
+ []
+
+[124]
+Underfull \hbox (badness 10000) in paragraph at lines 52--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--63
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\8_11.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 11--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--24
+
+ []
+
+[125]
+Underfull \hbox (badness 10000) in paragraph at lines 31--33
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--46
+
+ []
+
+File: S21.jpg Graphic file (type QTm)
+<use  "S21.jpg" >
+Underfull \hbox (badness 10000) in paragraph at lines 56--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--69
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\8_12.tex" [126]
+Underfull \hbox (badness 10000) in paragraph at lines 18--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
+
+ []
+
+[127]
+File: P6.jpg Graphic file (type QTm)
+ <use  "P6.jpg" >)
+("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\chapter9.tex" [128]
+Chapter 9.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--9
+
+ []
+
+File: 9.jpg Graphic file (type QTm)
+<use  "9.jpg" > [129
+
+]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\9_0.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 6--8
+
+ []
+
+File: S32.jpg Graphic file (type QTm)
+<use  "S32.jpg" >
+Overfull \hbox (12.35548pt too wide) in paragraph at lines 16--17
+[]\EU1/IPA明朝(0)/m/n/12 も し も 　[]れ る よ う な こ と に な っ て も 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
+
+ []
+
+[130
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 61--63
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--75
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--82
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--91
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\9_1.tex"
+File: S31.jpg Graphic file (type QTm)
+ <use  "S31.jpg" >
+Underfull \vbox (badness 1286) has occurred while \output is active []
+
+ [131]
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
+
+ []
+
+[132]
+Underfull \hbox (badness 10000) in paragraph at lines 56--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--65
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--72
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--81
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--86
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\9_2.tex"
+File: S33.jpg Graphic file (type QTm)
+ <use  "S33.jpg" >
+[133]
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--51
+
+ []
+
+[134]
+Underfull \hbox (badness 10000) in paragraph at lines 56--58
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\9_3.tex"
+File: S30.jpg Graphic file (type QTm)
+ <use  "S30.jpg" >
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
+
+ []
+
+[135]
+Underfull \hbox (badness 10000) in paragraph at lines 41--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--75
+
+ []
+
+[136]
+Underfull \hbox (badness 10000) in paragraph at lines 90--92
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--114
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\9_4.tex" [137]
+Underfull \hbox (badness 10000) in paragraph at lines 18--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--59
+
+ []
+
+[138]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\9_5.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
+
+ []
+
+[139]
+Underfull \hbox (badness 10000) in paragraph at lines 42--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--59
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\9_6.tex" [140]
+Underfull \hbox (badness 10000) in paragraph at lines 20--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--57
+
+ []
+
+[141]
+Underfull \hbox (badness 10000) in paragraph at lines 66--68
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\9_7.tex"
+File: S29.jpg Graphic file (type QTm)
+ <use  "S29.jpg" >
+Underfull \hbox (badness 10000) in paragraph at lines 20--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
+
+ []
+
+[142]
+Underfull \hbox (badness 10000) in paragraph at lines 42--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\9_8.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
+
+ []
+
+[143]
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--62
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\9_9.tex"
+Underfull \vbox (badness 4779) has occurred while \output is active []
+
+ [144]
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
+
+ []
+
+File: P11.jpg Graphic file (type QTm)
+<use  "P11.jpg" >
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\chapter10.tex" [145]
+Chapter 10.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--9
+
+ []
+
+File: 10.jpg Graphic file (type QTm)
+<use  "10.jpg" > [146
+
+]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\10_0.tex"
+File: S35.jpg Graphic file (type QTm)
+<use  "S35.jpg" >
+Underfull \hbox (badness 10000) in paragraph at lines 22--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--33
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
+
+ []
+
+[147
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 56--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--69
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\10_1.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
+
+ []
+
+[148]
+Underfull \hbox (badness 10000) in paragraph at lines 24--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\10_2.tex"
+File: S37.jpg Graphic file (type QTm)
+ <use  "S37.jpg" >
+Underfull \vbox (badness 2134) has occurred while \output is active []
+
+ [149]
+Underfull \hbox (badness 10000) in paragraph at lines 22--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--33
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--54
+
+ []
+
+[150]
+Underfull \hbox (badness 10000) in paragraph at lines 55--57
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\10_3.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--23
+
+ []
+
+[151]
+Underfull \hbox (badness 10000) in paragraph at lines 36--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--72
+
+ []
+
+[152]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\10_4.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
+
+ []
+
+[153]
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--72
+
+ []
+
+[154]
+Underfull \hbox (badness 10000) in paragraph at lines 81--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--104
+
+ []
+
+[155]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\10_5.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
+
+ []
+
+[156]
+Underfull \hbox (badness 10000) in paragraph at lines 47--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--81
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\10_6.tex" [157]
+Underfull \hbox (badness 10000) in paragraph at lines 11--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--18
+
+ []
+
+File: S36.jpg Graphic file (type QTm)
+<use  "S36.jpg" >
+Underfull \hbox (badness 10000) in paragraph at lines 30--32
+
+ []
+
+
+Overfull \hbox (0.792pt too wide) in paragraph at lines 35--36
+[]\EU1/IPA明朝(0)/m/n/12 ど こ に[]っ て し ま っ た の 　 あ の[]か
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--57
+
+ []
+
+[158]
+Underfull \hbox (badness 10000) in paragraph at lines 66--68
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\10_7.tex"
+File: S34.jpg Graphic file (type QTm)
+ <use  "S34.jpg" >
+Overfull \hbox (0.93752pt too wide) in paragraph at lines 8--9
+[][]\EU1/IPA明朝(0)/m/n/12 べ る こ と な ん て 　[]な の に ね 
+ []
+
+
+Overfull \hbox (0.93752pt too wide) in paragraph at lines 10--11
+[]\EU1/IPA明朝(0)/m/n/12 い つ も 　[]と[]べ て は 　 ヘ コ ん で 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--24
+
+ []
+
+[159]
+Underfull \hbox (badness 10000) in paragraph at lines 37--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--65
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--74
+
+ []
+
+[160]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\10_8.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
+
+ []
+
+[161]
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\10_9.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 4--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
+
+ []
+
+[162]
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--57
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--66
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\10_10.tex" [163]
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+
+ []
+
+[164]
+File: P7.jpg Graphic file (type QTm)
+ <use  "P7.jpg" >)
+("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\chapter11.tex" [165]
+Chapter 11.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--9
+
+ []
+
+File: 11.jpg Graphic file (type QTm)
+<use  "11.jpg" > [166
+
+]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\11_0.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
+
+ []
+
+[167
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 55--57
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--64
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--75
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--82
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--93
+
+ []
+
+[168]
+Underfull \hbox (badness 10000) in paragraph at lines 98--100
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--103
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\11_1.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--26
+
+ []
+
+[169]
+Underfull \hbox (badness 10000) in paragraph at lines 37--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--57
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--75
+
+ []
+
+[170]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\11_2.tex"
+File: S38.jpg Graphic file (type QTm)
+
+<use  "S38.jpg" >
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+[171]
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--78
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--83
+
+ []
+
+[172]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\11_3.tex"
+File: S39.jpg Graphic file (type QTm)
+
+<use  "S39.jpg" >
+Underfull \hbox (badness 10000) in paragraph at lines 16--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
+
+ []
+
+[173]
+Underfull \hbox (badness 10000) in paragraph at lines 69--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--82
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\11_4.tex"
+Underfull \vbox (badness 1163) has occurred while \output is active []
+
+ [174]
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--42
+
+ []
+
+[175]
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--64
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\11_5.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 8--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
+
+ []
+
+[176]
+Underfull \hbox (badness 10000) in paragraph at lines 22--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--51
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\11_6.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+[177]
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
+
+ []
+
+[178]
+Underfull \hbox (badness 10000) in paragraph at lines 62--64
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\11_7.tex"
+File: S40.jpg Graphic file (type QTm)
+ <use  "S40.jpg" >
+Underfull \hbox (badness 10000) in paragraph at lines 30--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--43
+
+ []
+
+[179]
+Underfull \hbox (badness 10000) in paragraph at lines 54--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--65
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--74
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\11_8.tex" [180]
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--52
+
+ []
+
+[181]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\11_9.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
+
+ []
+
+[182]
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\11_10.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--33
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--38
+
+ []
+
+[183]
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\11_11.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 8--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--26
+
+ []
+
+[184]
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--69
+
+ []
+
+[185]
+Underfull \hbox (badness 10000) in paragraph at lines 72--74
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\11_12.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--37
+
+ []
+
+[186]
+Underfull \hbox (badness 10000) in paragraph at lines 40--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--72
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\chapter12.tex" [187]
+Chapter 12.
+File: F2.jpg Graphic file (type QTm)
+<use  "F2.jpg" > [188
+
+]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_0.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--33
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_1.tex" [189
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--49
+
+ []
+
+[190]
+Underfull \hbox (badness 10000) in paragraph at lines 58--60
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_2.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
+
+ []
+
+[191]
+Underfull \hbox (badness 10000) in paragraph at lines 38--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--51
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--73
+
+ []
+
+[192]
+Underfull \hbox (badness 10000) in paragraph at lines 80--82
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_3.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--22
+
+ []
+
+[193]
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--41
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_4.tex")
+("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_5.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+[194]
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--57
+
+ []
+
+[195]
+Underfull \hbox (badness 10000) in paragraph at lines 64--66
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_6.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 20--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
+
+ []
+
+[196]
+Underfull \hbox (badness 10000) in paragraph at lines 48--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--59
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_7.tex" [197]
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--55
+
+ []
+
+[198]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_8.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 22--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--37
+
+ []
+
+[199]
+Underfull \hbox (badness 10000) in paragraph at lines 42--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--55
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_9.tex" [200]
+Underfull \hbox (badness 10000) in paragraph at lines 18--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--33
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--61
+
+ []
+
+[201]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_10.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--35
+
+ []
+
+[202]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_11.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
+
+ []
+
+[203]
+Underfull \hbox (badness 10000) in paragraph at lines 42--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--59
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_12.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
+
+ []
+
+[204]
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--64
+
+ []
+
+[205]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_13.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 16--18
+
+ []
+
+[206]
+Underfull \hbox (badness 10000) in paragraph at lines 33--35
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--63
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--72
+
+ []
+
+[207]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_14.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 16--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--33
+
+ []
+
+[208]
+Underfull \hbox (badness 10000) in paragraph at lines 48--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--65
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_15.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 8--10
+
+ []
+
+[209]
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
+
+ []
+
+[210]
+Underfull \hbox (badness 10000) in paragraph at lines 63--65
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_16.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
+
+ []
+
+[211]
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--39
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_17.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 18--20
+
+ []
+
+[212]
+Underfull \hbox (badness 10000) in paragraph at lines 31--33
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--55
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_18.tex"
+File: S19.jpg Graphic file (type QTm)
+ <use  "S19.jpg" >
+[213]
+Underfull \hbox (badness 10000) in paragraph at lines 36--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+
+ []
+
+[214]
+Underfull \hbox (badness 10000) in paragraph at lines 58--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--69
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_19.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 18--20
+
+ []
+
+[215]
+Underfull \hbox (badness 10000) in paragraph at lines 27--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--56
+
+ []
+
+[216]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_20.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_21.tex" [217]
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--41
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_22.tex" [218]
+Underfull \hbox (badness 10000) in paragraph at lines 16--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--51
+
+ []
+
+[219]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_23.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 16--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--25
+
+ []
+
+Requested font "[lmroman8-regular]:mapping=tex-text" at 8.0pt
+ -> E:/Program Files/MiKTeX 2.9/fonts/opentype/public/lm/lmroman8-regular.otf
+Requested font "[lmroman6-regular]:mapping=tex-text" at 6.0pt
+ -> E:/Program Files/MiKTeX 2.9/fonts/opentype/public/lm/lmroman6-regular.otf
+Requested font "cmmi12" at 12.0pt
+Requested font "cmmi8" at 8.0pt
+Requested font "cmmi6" at 6.0pt
+Requested font "cmsy10" at 12.0pt
+Requested font "cmsy8" at 8.0pt
+Requested font "cmsy6" at 6.0pt
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 32.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 32.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 32.
+Requested font "cmr12" at 12.0pt
+Requested font "cmr8" at 8.0pt
+Requested font "cmr6" at 6.0pt
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--40
+
+ []
+
+[220]
+Underfull \hbox (badness 10000) in paragraph at lines 47--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--58
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_24.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 11--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--24
+
+ []
+
+[221]
+File: S20.jpg Graphic file (type QTm)
+ <use  "S20.jpg" >
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--65
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--74
+
+ []
+
+[222]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_25.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--37
+
+ []
+
+[223]
+Underfull \hbox (badness 10000) in paragraph at lines 42--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--59
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_26.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 18--20
+
+ []
+
+[224]
+Underfull \hbox (badness 10000) in paragraph at lines 27--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--38
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_27.tex" [225]
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
+
+ []
+
+[226]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_28.tex"
+File: S28.jpg Graphic file (type QTm)
+
+<use  "S28.jpg" >
+Underfull \hbox (badness 10000) in paragraph at lines 16--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--41
+
+ []
+
+[227]
+Underfull \hbox (badness 10000) in paragraph at lines 54--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--82
+
+ []
+
+[228]
+Underfull \hbox (badness 10000) in paragraph at lines 95--97
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_29.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--25
+
+ []
+
+[229]
+Underfull \hbox (badness 10000) in paragraph at lines 36--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--65
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_31.tex" [230]
+Underfull \hbox (badness 10000) in paragraph at lines 6--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
+
+ []
+
+[231]
+Underfull \hbox (badness 10000) in paragraph at lines 61--63
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--75
+
+ []
+
+[232]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_32.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 4--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
+
+ []
+
+[233]
+Underfull \hbox (badness 10000) in paragraph at lines 47--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--64
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--71
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_33.tex"
+Underfull \vbox (badness 1242) has occurred while \output is active []
+
+ [234]
+Underfull \hbox (badness 10000) in paragraph at lines 16--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--44
+
+ []
+
+[235]
+Underfull \hbox (badness 10000) in paragraph at lines 55--57
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--64
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--77
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_34.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+[236]
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--57
+
+ []
+
+[237]
+Underfull \hbox (badness 10000) in paragraph at lines 66--68
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_35.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 6--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--26
+
+ []
+
+[238]
+Underfull \hbox (badness 10000) in paragraph at lines 33--35
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--65
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_36.tex" [239]
+Underfull \hbox (badness 10000) in paragraph at lines 6--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--35
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--40
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_37.tex" [240]
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--35
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--51
+
+ []
+
+[241]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_38.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
+
+ []
+
+[242]
+Underfull \hbox (badness 10000) in paragraph at lines 37--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--64
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_39.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 6--8
+
+ []
+
+[243]
+Underfull \hbox (badness 10000) in paragraph at lines 11--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_40.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 11--13
+
+ []
+
+[244]
+File: S41.jpg Graphic file (type QTm)
+ <use  "S41.jpg" >
+Underfull \hbox (badness 10000) in paragraph at lines 31--33
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--57
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--62
+
+ []
+
+[245]
+Underfull \hbox (badness 10000) in paragraph at lines 75--77
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_41.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 11--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--20
+
+ []
+
+[246]
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--57
+
+ []
+
+File: S42.jpg Graphic file (type QTm)
+<use  "S42.jpg" >
+Underfull \hbox (badness 10000) in paragraph at lines 68--70
+
+ []
+
+[247]) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_42.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 21--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--43
+
+ []
+
+[248]
+Underfull \hbox (badness 10000) in paragraph at lines 50--52
+
+ []
+
+File: S43.jpg Graphic file (type QTm)
+<use  "S43.jpg" >) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_43.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 9--12
+
+ []
+
+[249]
+Underfull \hbox (badness 10000) in paragraph at lines 22--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--51
+
+ []
+
+File: S44.jpg Graphic file (type QTm)
+<use  "S44.jpg" >
+Underfull \hbox (badness 10000) in paragraph at lines 61--63
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--72
+
+ []
+
+[250]
+Underfull \hbox (badness 10000) in paragraph at lines 80--82
 
  []
 
@@ -1625,31 +6361,98 @@ Underfull \hbox (badness 10000) in paragraph at lines 94--96
 
  []
 
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_44.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 6--8
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--107
+ []
+
+[251]
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 116--118
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 128--130
+Underfull \hbox (badness 10000) in paragraph at lines 37--39
 
  []
 
-[1
 
-] (E:\Users\zheng\Desktop\Proj-ZARD-Lyric.aux) ) 
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
+
+ []
+
+[252]
+Underfull \hbox (badness 10000) in paragraph at lines 59--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--83
+
+ []
+
+) ("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\12_45.tex" [253]
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
+
+ []
+
+[254]
+Underfull \hbox (badness 10000) in paragraph at lines 55--57
+
+ []
+
+File: P1.jpg Graphic file (type QTm)
+<use  "P1.jpg" >)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 556.
+ [255]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 556.
+
+("E:\Users\zheng\Desktop\ZARD\NEW - 2015-2-17\Proj-ZARD-Lyric.aux")
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 556.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 556.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 556.
+ ) 
 Here is how much of TeX's memory you used:
- 26367 strings out of 429025
- 541297 string characters out of 3167800
- 587740 words of memory out of 3000000
- 29301 multiletter control sequences out of 15000+200000
- 3760 words of font info for 29 fonts, out of 3000000 for 9000
+ 28460 strings out of 429025
+ 525462 string characters out of 3167800
+ 721586 words of memory out of 3000000
+ 30848 multiletter control sequences out of 15000+200000
+ 6992 words of font info for 56 fonts, out of 3000000 for 9000
  912 hyphenation exceptions out of 8191
- 59i,7n,61p,10481b,258s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 59i,12n,61p,10481b,567s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on Proj-ZARD-Lyric.pdf (1 page).
+Output written on Proj-ZARD-Lyric.pdf (256 pages).

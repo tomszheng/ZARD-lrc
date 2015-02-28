@@ -1,0 +1,171 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}Album 1}{7}{chapter.1}
+\contentsline {section}{\numberline {1.1} Good-bye My Loneliness}{8}{section.1.1}
+\contentsline {section}{\numberline {1.2} 愛は暗闇の中で}{9}{section.1.2}
+\contentsline {section}{\numberline {1.3} 恋女の憂鬱}{11}{section.1.3}
+\contentsline {section}{\numberline {1.4} Oh! Sugar Baby}{12}{section.1.4}
+\contentsline {section}{\numberline {1.5} 女でいたい}{13}{section.1.5}
+\contentsline {section}{\numberline {1.6} It's a Boy}{15}{section.1.6}
+\contentsline {chapter}{\numberline {2}Album 2}{17}{chapter.2}
+\contentsline {section}{\numberline {2.1} 不思議ね}{18}{section.2.1}
+\contentsline {section}{\numberline {2.2} もう探さない}{19}{section.2.2}
+\contentsline {section}{\numberline {2.3} 素直に言えなくて}{20}{section.2.3}
+\contentsline {section}{\numberline {2.4} ひとりが好き}{21}{section.2.4}
+\contentsline {section}{\numberline {2.5} Forever}{23}{section.2.5}
+\contentsline {section}{\numberline {2.6} Lonely soldier boy}{24}{section.2.6}
+\contentsline {section}{\numberline {2.7} いつかは}{27}{section.2.7}
+\contentsline {chapter}{\numberline {3}Album 3}{28}{chapter.3}
+\contentsline {section}{\numberline {3.1} 眠れない夜を抱いて}{29}{section.3.1}
+\contentsline {section}{\numberline {3.2} 誰かが待ってる}{30}{section.3.2}
+\contentsline {section}{\numberline {3.3} サヨナラ言えなくて}{31}{section.3.3}
+\contentsline {section}{\numberline {3.4} あの微笑みを忘れないで}{32}{section.3.4}
+\contentsline {section}{\numberline {3.5} 好きなように踊りたいの}{34}{section.3.5}
+\contentsline {section}{\numberline {3.6} Dangerous Tonight}{37}{section.3.6}
+\contentsline {section}{\numberline {3.7} こんなに愛しても}{38}{section.3.7}
+\contentsline {section}{\numberline {3.8} Why don't you leave me alone}{39}{section.3.8}
+\contentsline {section}{\numberline {3.9} 愛は眠ってる}{40}{section.3.9}
+\contentsline {section}{\numberline {3.10} 遠い日の Nostalgia}{42}{section.3.10}
+\contentsline {section}{\numberline {3.11} So together}{43}{section.3.11}
+\contentsline {chapter}{\numberline {4}Album 4}{46}{chapter.4}
+\contentsline {section}{\numberline {4.1} 揺れる想い}{47}{section.4.1}
+\contentsline {section}{\numberline {4.2} season}{48}{section.4.2}
+\contentsline {section}{\numberline {4.3} 君がいない (B-version)}{49}{section.4.3}
+\contentsline {section}{\numberline {4.4} In my arms tonight}{50}{section.4.4}
+\contentsline {section}{\numberline {4.5} あなたを好きだけど}{52}{section.4.5}
+\contentsline {section}{\numberline {4.6} 負けないで}{53}{section.4.6}
+\contentsline {section}{\numberline {4.7} Listen to me}{55}{section.4.7}
+\contentsline {section}{\numberline {4.8} You and me(and...)}{56}{section.4.8}
+\contentsline {section}{\numberline {4.9} I want you}{58}{section.4.9}
+\contentsline {section}{\numberline {4.10} 二人の夏}{59}{section.4.10}
+\contentsline {chapter}{\numberline {5}Album 5}{61}{chapter.5}
+\contentsline {section}{\numberline {5.1} OH MY LOVE}{62}{section.5.1}
+\contentsline {section}{\numberline {5.2} Top Secret}{63}{section.5.2}
+\contentsline {section}{\numberline {5.3} きっと忘れない}{65}{section.5.3}
+\contentsline {section}{\numberline {5.4} もう少し あと少し…}{66}{section.5.4}
+\contentsline {section}{\numberline {5.5} 雨に濡れて}{67}{section.5.5}
+\contentsline {section}{\numberline {5.6} この愛に泳ぎ疲れても}{69}{section.5.6}
+\contentsline {section}{\numberline {5.7} I still remember}{70}{section.5.7}
+\contentsline {section}{\numberline {5.8} If you gimme smile}{72}{section.5.8}
+\contentsline {section}{\numberline {5.9} 来年の夏も}{74}{section.5.9}
+\contentsline {section}{\numberline {5.10} あなたに帰りたい}{75}{section.5.10}
+\contentsline {chapter}{\numberline {6}Album 6}{77}{chapter.6}
+\contentsline {section}{\numberline {6.1} 今すぐ会いに来て}{78}{section.6.1}
+\contentsline {section}{\numberline {6.2} ハイヒール脱ぎ捨てて}{79}{section.6.2}
+\contentsline {section}{\numberline {6.3} forever you}{80}{section.6.3}
+\contentsline {section}{\numberline {6.4} もう逃げたりしないわ想い出から}{81}{section.6.4}
+\contentsline {section}{\numberline {6.5} あなたを感じていたい}{82}{section.6.5}
+\contentsline {section}{\numberline {6.6} 気楽に行こう}{84}{section.6.6}
+\contentsline {section}{\numberline {6.7} I'm in love}{85}{section.6.7}
+\contentsline {section}{\numberline {6.8} こんなにそばに居るのに}{86}{section.6.8}
+\contentsline {section}{\numberline {6.9} Just believe in love}{88}{section.6.9}
+\contentsline {section}{\numberline {6.10} 瞳そらさないで}{89}{section.6.10}
+\contentsline {chapter}{\numberline {7}Album 7}{91}{chapter.7}
+\contentsline {section}{\numberline {7.1} My Friend}{92}{section.7.1}
+\contentsline {section}{\numberline {7.2} 君がいたから}{93}{section.7.2}
+\contentsline {section}{\numberline {7.3} サヨナラは今もこの胸に居ます}{95}{section.7.3}
+\contentsline {section}{\numberline {7.4} Love ～眠れずに君の横顔ずっと見ていた～}{96}{section.7.4}
+\contentsline {section}{\numberline {7.5} DAN DAN 心魅かれてく}{97}{section.7.5}
+\contentsline {section}{\numberline {7.6} 眠り}{99}{section.7.6}
+\contentsline {section}{\numberline {7.7} 心を開いて}{100}{section.7.7}
+\contentsline {section}{\numberline {7.8} 突然}{101}{section.7.8}
+\contentsline {section}{\numberline {7.9} 今日も}{103}{section.7.9}
+\contentsline {section}{\numberline {7.10} Today is another day}{104}{section.7.10}
+\contentsline {section}{\numberline {7.11} 愛が見えない}{106}{section.7.11}
+\contentsline {section}{\numberline {7.12} 見つめていたいね}{108}{section.7.12}
+\contentsline {chapter}{\numberline {8}Album 8}{110}{chapter.8}
+\contentsline {section}{\numberline {8.1} 永遠}{111}{section.8.1}
+\contentsline {section}{\numberline {8.2} My Baby Grand ~ぬくもりが欲しくて~}{112}{section.8.2}
+\contentsline {section}{\numberline {8.3} Wake Up Make The Morning Last}{113}{section.8.3}
+\contentsline {section}{\numberline {8.4} Brand New Love}{114}{section.8.4}
+\contentsline {section}{\numberline {8.5} 運命のルーレット廻して}{116}{section.8.5}
+\contentsline {section}{\numberline {8.6} 遠い星を数えて}{117}{section.8.6}
+\contentsline {section}{\numberline {8.7} 新しいドア～冬のひまわり～}{118}{section.8.7}
+\contentsline {section}{\numberline {8.8} Good day}{120}{section.8.8}
+\contentsline {section}{\numberline {8.9} I feel fine, yeah}{121}{section.8.9}
+\contentsline {section}{\numberline {8.10} 少女の頃に戻ったみたいに}{122}{section.8.10}
+\contentsline {section}{\numberline {8.11} 息もできない}{124}{section.8.11}
+\contentsline {section}{\numberline {8.12} 風が通り抜ける街へ}{125}{section.8.12}
+\contentsline {section}{\numberline {8.13} フォトグラフ}{127}{section.8.13}
+\contentsline {chapter}{\numberline {9}Album 9}{129}{chapter.9}
+\contentsline {section}{\numberline {9.1} Get U're Dream}{130}{section.9.1}
+\contentsline {section}{\numberline {9.2} この涙　星になれ}{132}{section.9.2}
+\contentsline {section}{\numberline {9.3} promised you～with P-edition～}{134}{section.9.3}
+\contentsline {section}{\numberline {9.4} 痛いくらい君があふれているよ}{135}{section.9.4}
+\contentsline {section}{\numberline {9.5} 窓の外はモノクローム}{137}{section.9.5}
+\contentsline {section}{\numberline {9.6} お·も·ひ·で}{139}{section.9.6}
+\contentsline {section}{\numberline {9.7} 明日もし君が壊れても}{140}{section.9.7}
+\contentsline {section}{\numberline {9.8} 世界はきっと未来の中}{142}{section.9.8}
+\contentsline {section}{\numberline {9.9} hero}{143}{section.9.9}
+\contentsline {section}{\numberline {9.10} 時間（とき）の翼}{145}{section.9.10}
+\contentsline {chapter}{\numberline {10}Album 10}{146}{chapter.10}
+\contentsline {section}{\numberline {10.1} 明日を夢見て}{147}{section.10.1}
+\contentsline {section}{\numberline {10.2} 時間の翼}{148}{section.10.2}
+\contentsline {section}{\numberline {10.3} もっと近くで君の横顔見ていたい}{150}{section.10.3}
+\contentsline {section}{\numberline {10.4} Pray}{151}{section.10.4}
+\contentsline {section}{\numberline {10.5} 出逢いそして別れ}{153}{section.10.5}
+\contentsline {section}{\numberline {10.6} 止まっていた時計が今動き出した}{156}{section.10.6}
+\contentsline {section}{\numberline {10.7} 瞳閉じて}{157}{section.10.7}
+\contentsline {section}{\numberline {10.8} さわやかな君の気持ち(Album Ver.)}{159}{section.10.8}
+\contentsline {section}{\numberline {10.9} 愛であなたを救いましょう}{161}{section.10.9}
+\contentsline {section}{\numberline {10.10} 天使のような笑顔で}{162}{section.10.10}
+\contentsline {section}{\numberline {10.11} 悲しいほど 今日は雨でも}{164}{section.10.11}
+\contentsline {chapter}{\numberline {11}Album 11}{166}{chapter.11}
+\contentsline {section}{\numberline {11.1} 夏を待つセイル(帆)のように}{167}{section.11.1}
+\contentsline {section}{\numberline {11.2} サヨナラまでのディスタンス}{169}{section.11.2}
+\contentsline {section}{\numberline {11.3} かけがえのないもの}{171}{section.11.3}
+\contentsline {section}{\numberline {11.4} 今日はゆっくり話そう}{173}{section.11.4}
+\contentsline {section}{\numberline {11.5} 君とのふれあい}{175}{section.11.5}
+\contentsline {section}{\numberline {11.6} セパレート ウェイズ}{176}{section.11.6}
+\contentsline {section}{\numberline {11.7} Last Good-bye}{177}{section.11.7}
+\contentsline {section}{\numberline {11.8} 星のかがやきよ}{179}{section.11.8}
+\contentsline {section}{\numberline {11.9} 月に願いを}{180}{section.11.9}
+\contentsline {section}{\numberline {11.10} あなたと共に生きてゆく}{182}{section.11.10}
+\contentsline {section}{\numberline {11.11} I can't tell}{183}{section.11.11}
+\contentsline {section}{\numberline {11.12} good-night sweetheart}{184}{section.11.12}
+\contentsline {section}{\numberline {11.13} 君と今日の事を一生忘れない}{186}{section.11.13}
+\contentsline {chapter}{\numberline {12}Others}{188}{chapter.12}
+\contentsline {section}{\numberline {12.1} 約束のない恋}{189}{section.12.1}
+\contentsline {section}{\numberline {12.2} クリスマスタイム(ZARD Version)}{190}{section.12.2}
+\contentsline {section}{\numberline {12.3} 果てしない夢を}{191}{section.12.3}
+\contentsline {section}{\numberline {12.4} 異邦人}{193}{section.12.4}
+\contentsline {section}{\numberline {12.5} 永遠 ～君と僕との間に～}{194}{section.12.5}
+\contentsline {section}{\numberline {12.6} 雨に濡れて}{194}{section.12.6}
+\contentsline {section}{\numberline {12.7} 私だけ見つめて}{196}{section.12.7}
+\contentsline {section}{\numberline {12.8} Just For You}{197}{section.12.8}
+\contentsline {section}{\numberline {12.9} カナリヤ}{199}{section.12.9}
+\contentsline {section}{\numberline {12.10} 黄昏にMy Lonely Heart}{200}{section.12.10}
+\contentsline {section}{\numberline {12.11} Boy}{202}{section.12.11}
+\contentsline {section}{\numberline {12.12} あなたのせいじゃない}{203}{section.12.12}
+\contentsline {section}{\numberline {12.13} Take Me to Your Dream}{204}{section.12.13}
+\contentsline {section}{\numberline {12.14} Ready, Go}{206}{section.12.14}
+\contentsline {section}{\numberline {12.15} Teenage dream}{208}{section.12.15}
+\contentsline {section}{\numberline {12.16} 君へのブルース}{209}{section.12.16}
+\contentsline {section}{\numberline {12.17} 目覚めた朝は…}{211}{section.12.17}
+\contentsline {section}{\numberline {12.18} Change My Mind}{212}{section.12.18}
+\contentsline {section}{\numberline {12.19} Don't you see!}{214}{section.12.19}
+\contentsline {section}{\numberline {12.20} 愛を信じていたい}{215}{section.12.20}
+\contentsline {section}{\numberline {12.21} 帰らぬ時間の中で}{217}{section.12.21}
+\contentsline {section}{\numberline {12.22} I can't let go}{218}{section.12.22}
+\contentsline {section}{\numberline {12.23} Love is Gone}{219}{section.12.23}
+\contentsline {section}{\numberline {12.24} Vintage}{220}{section.12.24}
+\contentsline {section}{\numberline {12.25} 君に逢いたくなったら…}{221}{section.12.25}
+\contentsline {section}{\numberline {12.26} 汗の中でCRY}{223}{section.12.26}
+\contentsline {section}{\numberline {12.27} Stray Love}{224}{section.12.27}
+\contentsline {section}{\numberline {12.28} Hypnosis}{225}{section.12.28}
+\contentsline {section}{\numberline {12.29} MIND GAMES}{227}{section.12.29}
+\contentsline {section}{\numberline {12.30} Seven Rainbow}{229}{section.12.30}
+\contentsline {section}{\numberline {12.31} Get U're Dream}{231}{section.12.31}
+\contentsline {section}{\numberline {12.32} The Only Truth I Know Is You}{233}{section.12.32}
+\contentsline {section}{\numberline {12.33} 抱きしめていて}{235}{section.12.33}
+\contentsline {section}{\numberline {12.34} 探しに行こうよ}{236}{section.12.34}
+\contentsline {section}{\numberline {12.35} 愛しい人よ～名もなき旅人よ～}{238}{section.12.35}
+\contentsline {section}{\numberline {12.36} リセット}{240}{section.12.36}
+\contentsline {section}{\numberline {12.37} 雨が降り出す前に}{241}{section.12.37}
+\contentsline {section}{\numberline {12.38} 淡い雪がとけて}{242}{section.12.38}
+\contentsline {section}{\numberline {12.39} 無我夢中}{243}{section.12.39}
+\contentsline {section}{\numberline {12.40} 悲しいほど貴方が好き}{244}{section.12.40}
+\contentsline {section}{\numberline {12.41} ハートに火をつけて}{246}{section.12.41}
+\contentsline {section}{\numberline {12.42} クロリアス マインド}{248}{section.12.42}
+\contentsline {section}{\numberline {12.43} 愛は暗闇の中で(44th Single ver.)}{249}{section.12.43}
+\contentsline {section}{\numberline {12.44} カラッといこう！}{251}{section.12.44}
+\contentsline {section}{\numberline {12.45} 翼を広げて}{253}{section.12.45}
