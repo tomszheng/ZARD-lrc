@@ -31,37 +31,22 @@ Oh! Tonight and everynight, you'd be mine
 ~~~
 
 
-<b>img file</b>
-
-<p align="center">
-  <img src="https://github.com/tomszheng/ZARD-lrc/blob/master/latex%20files/2.jpg" width="400" style="text-align:center"/>
-</p>
-
 Output file example ?
 ------------------------
 <embed>
-https://github.com/tomszheng/ZARD-lrc/blob/master/latex%20files/Proj-ZARD-Lyric.pdf
+https://raw.githubusercontent.com/tomszheng/ZARD-lrc/master/simulate%20output/Proj-ZARD-Lyric.pdf
 </embed>
 
 There is still a long long way to go, and the result is far from satisfication.
-
-距离理想的结果仍然有很长的路要走...
-
-WHAT IS NEXT
----------------
-* 下阶段的工作
-  + 目录需要生成
-  + 背景配色，体现基调
-
-* Future Job
-  + Catalogue should be generated to index these songs.
-  + The background colors of each lyric should be different to better present the theme of the songs.
 
 =============================
 YOU are wellcome !
 欢迎有兴趣的同学一起交流。
 
-附上美图一张 :-)
+附上核心算法示意图 :-)
 <p align="center">
-  <img src="https://github.com/tomszheng/ZARD-lrc/blob/master/image%20files/ordered/single/22nd%20single%20-%20%E6%B0%B8%E9%81%A0.jpg" width="200" style="text-align:center"/>
+  <img src="https://github.com/tomszheng/ZARD-lrc/blob/master/algo.PNG" width="200" style="text-align:center"/>
 </p>
+
+----
+感谢百度贴吧的各位前辈的前期整理工作！ 2015-2-28
