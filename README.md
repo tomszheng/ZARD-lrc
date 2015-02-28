@@ -45,7 +45,7 @@ YOU are wellcome !
 
 附上核心算法示意图 :-)
 <p align="center">
-  <img src="https://github.com/tomszheng/ZARD-lrc/blob/master/algo.PNG" width="200" style="text-align:center"/>
+  <img src="https://github.com/tomszheng/ZARD-lrc/blob/master/algo.PNG" width="500" style="text-align:center"/>
 </p>
 
 ----
