@@ -58,6 +58,28 @@ https://raw.githubusercontent.com/tomszheng/ZARD-lrc/master/simulate%20output/Pr
 
 There is still a long long way to go, and the result is far from satisfication.
 
+--------------------------
+<code>Add example in html code</code> - 2015-5-14
+
+<br><ruby>愛<rt>あい</ruby>は<ruby>手探<rt>てさぐ</ruby>り
+<br><ruby>暗闇<rt>くらやみ</ruby>の<ruby>中<rt>なか</ruby>で
+<br><ruby>踊<rt>おど</ruby>る　It's gonna be a great night, yeah～
+
+<br><br><ruby>駆<rt>か</ruby>け<ruby>拔<rt>ぬ</ruby>ける　Freeway
+<br>この<ruby>思<rt>おも</ruby>い　To be your slave
+<br>Oh, you, crazy rainy night, no one care
+<br><ruby>素直<rt>すなお</ruby>になれ　Night　<ruby>濡<rt>ぬ</ruby>れた　Memories
+
+<br><br>こんなにも　For you
+<br><ruby>感<rt>かん</ruby>じてる　But you're so cold
+<br>Oh! Tonight and everynight, you'd be mine
+<br><ruby>目移<rt>めうつ</ruby>り<ruby>気<rt>き</ruby>になる
+<br><ruby>恋<rt>こい</ruby>の<ruby>駆<rt>か</ruby>け<ruby>引<rt>ひ</ruby>き
+
+<p align="center">
+  <img src="https://github.com/tomszheng/ZARD-lrc/blob/master/html_example.PNG" width="500" style="text-align:center"/>
+</p>
+
 =============================
 YOU are wellcome !
 欢迎有兴趣的同学一起交流。
