@@ -10,9 +10,8 @@ Latex文件的部分代码将由java代码生成。
 
 Input file will be like this
 ------------------------
-<b>lrc file</b>
+<b>lrc file - Version One</b>
 ~~~
-<p align="center" width="200">
 愛（あい）は手探（てさぐ）り
 暗闇（くらやみ）の中（なか）で
 踊（おど）る　It's gonna be a great night, yeah～
@@ -27,9 +26,29 @@ Oh, you, crazy rainy night, no one care
 Oh! Tonight and everynight, you'd be mine
 目移（めうつ）り気（き）になる
 恋（こい）の駆（か）け引（ひ）き
-</p>
 ~~~
+------------------------
 
+<b>lrc file - <code>Version Two</code></b>
+
+In <code>{X|Y}</code> , <code>X</code> indicates the string and <code>Y</code> indicates how to read it.
+
+~~~
+{愛|あい}は{手探|てさぐ}り
+{暗闇|くらやみ}の{中|なか}で
+{踊|おど}る　It's gonna be a great night, yeah～
+
+{駆|か}け{拔|ぬ}ける　Freeway
+この{思|おも}い　To be your slave
+Oh, you, crazy rainy night, no one care
+{素直|すなお}になれ　Night　{濡|ぬ}れた　Memories
+
+こんなにも　For you
+{感|かん}じてる　But you're so cold
+Oh! Tonight and everynight, you'd be mine
+{目移|めうつ}り{気|き}になる
+{恋|こい}の{駆|か}け{引|ひ}き
+~~~
 
 Output file example ?
 ------------------------
