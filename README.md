@@ -52,17 +52,20 @@ Oh! Tonight and everynight, you'd be mine
 
 Output file example ?
 ------------------------
+Example in Tex output:
+
 <embed>
 https://raw.githubusercontent.com/tomszheng/ZARD-lrc/master/simulate%20output/Proj-ZARD-Lyric.pdf
 </embed>
 
-There is still a long long way to go, and the result is far from satisfication.
 
 --------------------------
-<code>Add example in html code , the markdown will show it nicely in the browser directly.</code> - 2015-5-14
 
-<p>
-<center>
+Added example in html code
+>the markdown will show it nicely in the browser directly. - 2015-5-14
+
+<p align="center">
+
 <br><ruby>愛<rt>あい</ruby>は<ruby>手探<rt>てさぐ</ruby>り
 <br><ruby>暗闇<rt>くらやみ</ruby>の<ruby>中<rt>なか</ruby>で
 <br><ruby>踊<rt>おど</ruby>る　It's gonna be a great night, yeah～
@@ -77,17 +80,41 @@ There is still a long long way to go, and the result is far from satisfication.
 <br>Oh! Tonight and everynight, you'd be mine
 <br><ruby>目移<rt>めうつ</ruby>り<ruby>気<rt>き</ruby>になる
 <br><ruby>恋<rt>こい</ruby>の<ruby>駆<rt>か</ruby>け<ruby>引<rt>ひ</ruby>き
-</center>
+
 </p>
 
 =============================
-YOU are wellcome !
-欢迎有兴趣的同学一起交流。
 
 附上核心算法示意图 :-)
 <p align="center">
   <img src="https://github.com/tomszheng/ZARD-lrc/blob/master/algo.PNG" width="500" style="text-align:center"/>
 </p>
 
+该算法用于将`lrc file - Version One`转换成`lrc file - Version Two`,核心思路是从每行的最后一个字符从后向前扫描。
+
+- 扫到")"替换成"}"
+- 扫到"("替换成"|"
+- 扫到"X"替换成"{"
+
+关键就是对于"X"的判定
+
+本算法中认为，平假名、片假名、英文、汉字不连用。类型转变时，代表新的"段"的开始。
+
+Following are the main handle functions.
+
+```java
+package com.zard; //Just go in to this file to see what happened.
+
+//示例代码中为将歌词(Version One)替换为 tex 格式，后面将会添加 替换为html格式 的代码。
+private static String AnalyseLine(String line);
+private static int typeOf(char character);
+```
+
 ----
-感谢百度贴吧的各位前辈的前期整理工作！ 2015-2-28
+感谢百度贴吧的各位前辈的前期整理工作！ 
+
+2015-2-28 - First Version 
+>Original File -> `Tex`
+
+2015-5-15 - Second Version 
+>Original File -> `HTML`
