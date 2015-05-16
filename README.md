@@ -118,3 +118,19 @@ private static int typeOf(char character);
 
 2015-5-15 - Second Version 
 >Original File -> `HTML`
+
+
+----
+### 参考页面 ###
+包含`罗马读音`以及`英文翻译`
+>[http://zardthebest.tripod.com/translation.html](http://http://zardthebest.tripod.com/translation.html "English_Version_Lyric")
+
+`lrc`格式的歌词
+>[https://github.com/adanBreak/ZARD-Lyric](https://github.com/adanBreak/ZARD-Lyric "Lyrics_in_lrc_format")
+
+百度`ZARD吧` <u>田可柔</u> 精心整理
+[http://pan.baidu.com/s/1o62vRei](http://pan.baidu.com/s/1o62vRei) 
+
+- 密码: `tkta`
+
+**若以上连接失效，请留言。**
