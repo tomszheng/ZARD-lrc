@@ -1,6 +1,11 @@
 # ZARD-lrc
 ZARD lyrics Project
 
+=============================
+Online Book [Experiment] is now available!
+>see [ZARD Lyrics Book Online](http://tomszheng.gitbooks.io/zard_lyrics/content/)
+
+
 ==============================
 * 本项目旨在通过现有的歌词文件(以日语歌词为例)，通过代码生成排版更为精美的歌词文档。
 * This project aims to make nice Lyric files (will be in PDF format) by using existing lyric files.
