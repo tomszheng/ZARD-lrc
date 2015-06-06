@@ -3,7 +3,7 @@ ZARD lyrics Project
 
 =============================
 Online Book [Experiment] is now available!
->see [ZARD Lyrics Book Online](http://tomszheng.gitbooks.io/zard_lyrics/content/)
+>see [ZARD Lyrics Book Online](http://tomszheng.gitbooks.io/zard-lyrics/content/)
 
 
 ==============================
