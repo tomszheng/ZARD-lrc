@@ -3,7 +3,7 @@ ZARD lyrics Project
 
 =============================
 Online Book [Experiment] is now available!
-<<<<<<< HEAD
+
 >see [ZARD Lyrics Book Online](http://tomszheng.gitbooks.io/zard_lyrics/content/)
 >
 >also see [ZARD Lyrics Book Online](http://47.88.2.219:8080/ZARD/_book/index.html)
@@ -13,7 +13,7 @@ Online Book [Experiment] is now available!
 
 Site's QR code:
 <p align="center">
-  <img src="https://github.com/tomszheng/ZARD-lrc/blob/master/site.PNG" width="300" style="text-align:center"/>
+  <img src="https://github.com/tomszheng/ZARD-lrc/blob/master/site.PNG" width="200" style="text-align:center"/>
 </p>
 
 PDF file is available now:
